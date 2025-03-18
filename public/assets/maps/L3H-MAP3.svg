@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3000 2000">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1, .st2, .st3, .st6, .st7, .st8 {
+        stroke: #aaa;
+      }
+
+      .st0, .st1, .st3, .st4, .st5, .st8 {
+        fill: none;
+      }
+
+      .st1, .st2, .st7 {
+        stroke-width: 0px;
+      }
+
+      .st9, .st10, .st11, .st12, .st13 {
+        fill: #474747;
+      }
+
+      .st9, .st13 {
+        font-size: 6px;
+        letter-spacing: 0em;
+      }
+
+      .st10 {
+        font-size: 7px;
+        letter-spacing: 0em;
+      }
+
+      .st10, .st11, .st12, .st14 {
+        font-family: IBMPlexSans-Bold, 'IBM Plex Sans';
+        font-weight: 700;
+      }
+
+      .st11 {
+        font-size: 9px;
+        letter-spacing: 0em;
+      }
+
+      .st15, .st2 {
+        fill: #969696;
+      }
+
+      .st16, .st13 {
+        font-family: IBMPlexSans-Text, 'IBM Plex Sans';
+      }
+
+      .st12 {
+        font-size: 8px;
+        letter-spacing: 0em;
+      }
+
+      .st17, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st3 {
+        stroke-width: 2px;
+      }
+
+      .st4 {
+        stroke: #d1d5db;
+        stroke-width: .8px;
+      }
+
+      .st5 {
+        stroke: #000;
+      }
+
+      .st8 {
+        stroke-width: 3px;
+      }
+
+      .st18 {
+        fill: #f3f4f6;
+      }
+    </style>
+  </defs>
+  <polyline class="st3" points="2293.5 1196.1 2290.5 1196.1 2290.5 1325.1"/>
+  <polyline class="st3" points="2309.4 1196.1 2379.3 1196.1 2379.3 1207.1"/>
+  <line class="st3" x1="2313.7" y1="1195.7" x2="2313.7" y2="1348.8"/>
+  <polyline class="st3" points="2290.5 1338.3 2290.5 1347.8 2426.1 1347.8 2426.1 1196.1 2422.3 1196.1 2401.2 1196.1 2401.2 1207.1"/>
+  <polyline class="st3" points="2145.1 1140.8 2239.5 1140.8 2239.5 1179.4"/>
+  <polyline class="st3" points="2133.4 1140.8 2127.2 1140.8 2127.2 1204.8 2251.9 1204.8 2251.9 1194.1 2239.5 1194.1 2239.5 1191.2"/>
+  <rect class="st7" x="2133.2" y="1127.9" width=".8" height="12.4"/>
+  <path class="st1" d="M2133.6,1127.9c4.9.4,9.5,3.8,11.1,8.5.4,1.2.6,2.5.7,3.9"/>
+  <g>
+    <rect class="st7" x="2246.3" y="1185" width=".8" height="12.4" transform="translate(1055.5 3437.8) rotate(-90)"/>
+    <path class="st1" d="M2252.9,1191.2c-.4-4.9-3.8-9.5-8.5-11.1-1.2-.4-2.5-.6-3.9-.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2246.6" y="1248.9" width=".8" height="12.4" transform="translate(991.9 3502) rotate(-90)"/>
+    <path class="st1" d="M2253.1,1255.1c-.4-4.9-3.8-9.5-8.5-11.1-1.2-.4-2.5-.6-3.9-.7"/>
+  </g>
+  <text class="st9" transform="translate(2172.6 1173.3)"><tspan class="st16"><tspan x="0" y="0">23UR30</tspan></tspan><tspan class="st14"><tspan x="2.3" y="5">CR-30</tspan></tspan></text>
+  <text class="st9" transform="translate(2172.6 1236)"><tspan class="st16"><tspan x="0" y="0">23UR31</tspan></tspan><tspan class="st14"><tspan x="2.3" y="5">CR-31</tspan></tspan></text>
+  <text class="st9" transform="translate(2172.6 1302)"><tspan class="st16"><tspan x="0" y="0">23UR32</tspan></tspan><tspan class="st14"><tspan x="2.3" y="5">CR-32</tspan></tspan></text>
+  <text class="st13" transform="translate(2183.1 1351.6)"><tspan x="0" y="0">23UR33</tspan></text>
+  <text class="st13" transform="translate(2153.7 1391.9)"><tspan x="0" y="0">23UR31</tspan></text>
+  <text class="st13" transform="translate(2218.4 1391.6)"><tspan x="0" y="0">23UR32</tspan></text>
+  <text class="st13" transform="translate(2140.8 1447.6)"><tspan x="0" y="0">23UR30</tspan></text>
+  <text class="st13" transform="translate(2438 1664.2)"><tspan x="0" y="0">23UC138</tspan></text>
+  <text class="st13" transform="translate(2438.1 1699.1)"><tspan x="0" y="0">23UC139</tspan></text>
+  <g>
+    <text class="st13" transform="translate(2473 1664.2)"><tspan x="0" y="0">23UC130</tspan></text>
+    <text class="st13" transform="translate(2473 1699.1)"><tspan x="0" y="0">23UC131</tspan></text>
+    <text class="st13" transform="translate(2473 1734)"><tspan x="0" y="0">23UC132</tspan></text>
+    <polyline class="st4" points="2467.6 1784.7 2467.6 1644.7 2467.6 1644.3"/>
+    <line class="st4" x1="2502.9" y1="1644.6" x2="2467.2" y2="1644.6"/>
+    <line class="st4" x1="2502.6" y1="1665.4" x2="2502.6" y2="1644.3"/>
+    <g>
+      <line class="st4" x1="2502.9" y1="1679.5" x2="2467.2" y2="1679.5"/>
+      <line class="st4" x1="2502.6" y1="1700.3" x2="2502.6" y2="1679.2"/>
+    </g>
+    <g>
+      <line class="st4" x1="2502.9" y1="1714.5" x2="2467.2" y2="1714.5"/>
+      <line class="st4" x1="2502.6" y1="1735.3" x2="2502.6" y2="1714.2"/>
+    </g>
+    <g>
+      <line class="st4" x1="2502.9" y1="1784.3" x2="2467.2" y2="1784.3"/>
+      <line class="st4" x1="2502.6" y1="1763.5" x2="2502.6" y2="1784.7"/>
+    </g>
+    <line class="st4" x1="2502.2" y1="1749.4" x2="2467.2" y2="1749.4"/>
+  </g>
+  <g>
+    <polyline class="st4" points="2467.7 1784.7 2467.7 1644.7 2467.7 1644.3"/>
+    <line class="st4" x1="2432.4" y1="1644.6" x2="2468.1" y2="1644.6"/>
+    <line class="st4" x1="2432.7" y1="1665.4" x2="2432.7" y2="1644.3"/>
+    <g>
+      <line class="st4" x1="2432.4" y1="1679.5" x2="2468.1" y2="1679.5"/>
+      <line class="st4" x1="2432.7" y1="1700.3" x2="2432.7" y2="1679.2"/>
+    </g>
+    <g>
+      <line class="st4" x1="2432.4" y1="1714.5" x2="2468.1" y2="1714.5"/>
+      <line class="st4" x1="2432.7" y1="1735.3" x2="2432.7" y2="1714.2"/>
+    </g>
+    <g>
+      <line class="st4" x1="2432.4" y1="1784.3" x2="2468.1" y2="1784.3"/>
+      <line class="st4" x1="2432.7" y1="1763.5" x2="2432.7" y2="1784.7"/>
+    </g>
+    <line class="st4" x1="2433.1" y1="1749.4" x2="2468.1" y2="1749.4"/>
+  </g>
+  <text class="st13" transform="translate(2438.3 1734.2)"><tspan x="0" y="0">23UC140</tspan></text>
+  <text class="st13" transform="translate(2438.1 1769)"><tspan x="0" y="0">23UC141</tspan></text>
+  <text class="st13" transform="translate(2473 1769)"><tspan x="0" y="0">23UC133</tspan></text>
+  <rect class="st18" x="2379.3" y="1644.6" width="35" height="34.6"/>
+  <polyline class="st4" points="2379.3 1784.7 2379.3 1644.7 2379.3 1644.3"/>
+  <line class="st4" x1="2414.6" y1="1644.6" x2="2378.9" y2="1644.6"/>
+  <line class="st4" x1="2414.3" y1="1665.4" x2="2414.3" y2="1644.3"/>
+  <g>
+    <line class="st4" x1="2414.6" y1="1679.5" x2="2378.9" y2="1679.5"/>
+    <line class="st4" x1="2414.3" y1="1700.3" x2="2414.3" y2="1679.2"/>
+  </g>
+  <g>
+    <line class="st4" x1="2414.6" y1="1714.5" x2="2378.9" y2="1714.5"/>
+    <line class="st4" x1="2414.3" y1="1735.3" x2="2414.3" y2="1714.2"/>
+  </g>
+  <g>
+    <line class="st4" x1="2414.6" y1="1784.3" x2="2378.9" y2="1784.3"/>
+    <line class="st4" x1="2414.3" y1="1763.5" x2="2414.3" y2="1784.7"/>
+  </g>
+  <line class="st4" x1="2413.9" y1="1749.4" x2="2378.9" y2="1749.4"/>
+  <text class="st13" transform="translate(2384.7 1732.9)"><tspan x="0" y="0">23UC148</tspan></text>
+  <text class="st13" transform="translate(2384.7 1698.2)"><tspan x="0" y="0">23UC147</tspan></text>
+  <text class="st13" transform="translate(2384.7 1664.2)"><tspan x="0" y="0">23UC146</tspan></text>
+  <text class="st13" transform="translate(2384.7 1767.7)"><tspan x="0" y="0">23UC149</tspan></text>
+  <g>
+    <text class="st13" transform="translate(2288.9 1664.5)"><tspan x="0" y="0">23UC168</tspan></text>
+    <text class="st13" transform="translate(2289 1699.4)"><tspan x="0" y="0">23UC169</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2323.8 1664.5)"><tspan x="0" y="0">23UC160</tspan></text>
+      <text class="st13" transform="translate(2323.8 1699.4)"><tspan x="0" y="0">23UC161</tspan></text>
+      <text class="st13" transform="translate(2323.8 1734.4)"><tspan x="0" y="0">23UC162</tspan></text>
+      <polyline class="st4" points="2318.4 1785 2318.4 1645 2318.4 1644.6"/>
+      <line class="st4" x1="2353.8" y1="1644.9" x2="2318.1" y2="1644.9"/>
+      <line class="st4" x1="2353.4" y1="1665.8" x2="2353.4" y2="1644.6"/>
+      <g>
+        <line class="st4" x1="2353.8" y1="1679.8" x2="2318.1" y2="1679.8"/>
+        <line class="st4" x1="2353.4" y1="1700.7" x2="2353.4" y2="1679.5"/>
+      </g>
+      <g>
+        <line class="st4" x1="2353.8" y1="1714.8" x2="2318.1" y2="1714.8"/>
+        <line class="st4" x1="2353.4" y1="1735.6" x2="2353.4" y2="1714.5"/>
+      </g>
+      <g>
+        <line class="st4" x1="2353.8" y1="1784.7" x2="2318.1" y2="1784.7"/>
+        <line class="st4" x1="2353.4" y1="1763.8" x2="2353.4" y2="1785"/>
+      </g>
+      <line class="st4" x1="2353.1" y1="1749.7" x2="2318.1" y2="1749.7"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2318.6 1785 2318.6 1645 2318.6 1644.6"/>
+      <line class="st4" x1="2283.2" y1="1644.9" x2="2318.9" y2="1644.9"/>
+      <line class="st4" x1="2283.6" y1="1665.8" x2="2283.6" y2="1644.6"/>
+      <g>
+        <line class="st4" x1="2283.2" y1="1679.8" x2="2318.9" y2="1679.8"/>
+        <line class="st4" x1="2283.6" y1="1700.7" x2="2283.6" y2="1679.5"/>
+      </g>
+      <g>
+        <line class="st4" x1="2283.2" y1="1714.8" x2="2318.9" y2="1714.8"/>
+        <line class="st4" x1="2283.6" y1="1735.6" x2="2283.6" y2="1714.5"/>
+      </g>
+      <g>
+        <line class="st4" x1="2283.2" y1="1784.7" x2="2318.9" y2="1784.7"/>
+        <line class="st4" x1="2283.6" y1="1763.8" x2="2283.6" y2="1785"/>
+      </g>
+      <line class="st4" x1="2283.9" y1="1749.7" x2="2318.9" y2="1749.7"/>
+    </g>
+    <text class="st13" transform="translate(2289.1 1734.5)"><tspan x="0" y="0">23UC170</tspan></text>
+    <text class="st13" transform="translate(2289 1769.3)"><tspan x="0" y="0">23UC171</tspan></text>
+    <text class="st13" transform="translate(2323.8 1769.3)"><tspan x="0" y="0">23UC163</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2288.4 1823.4)"><tspan x="0" y="0">23UC172</tspan></text>
+    <text class="st13" transform="translate(2288.5 1858.3)"><tspan x="0" y="0">23UC173</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2323.4 1823.4)"><tspan x="0" y="0">23UC164</tspan></text>
+      <text class="st13" transform="translate(2323.4 1858.3)"><tspan x="0" y="0">23UC165</tspan></text>
+      <text class="st13" transform="translate(2323.4 1893.3)"><tspan x="0" y="0">23UC166</tspan></text>
+      <polyline class="st4" points="2318 1943.9 2318 1803.9 2318 1803.5"/>
+      <line class="st4" x1="2353.3" y1="1803.8" x2="2317.6" y2="1803.8"/>
+      <line class="st4" x1="2353" y1="1824.7" x2="2353" y2="1803.5"/>
+      <g>
+        <line class="st4" x1="2353.3" y1="1838.7" x2="2317.6" y2="1838.7"/>
+        <line class="st4" x1="2353" y1="1859.6" x2="2353" y2="1838.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2353.3" y1="1873.7" x2="2317.6" y2="1873.7"/>
+        <line class="st4" x1="2353" y1="1894.5" x2="2353" y2="1873.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2353.3" y1="1943.6" x2="2317.6" y2="1943.6"/>
+        <line class="st4" x1="2353" y1="1922.7" x2="2353" y2="1943.9"/>
+      </g>
+      <line class="st4" x1="2352.6" y1="1908.6" x2="2317.6" y2="1908.6"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2318.1 1943.9 2318.1 1803.9 2318.1 1803.5"/>
+      <line class="st4" x1="2282.8" y1="1803.8" x2="2318.5" y2="1803.8"/>
+      <line class="st4" x1="2283.1" y1="1824.7" x2="2283.1" y2="1803.5"/>
+      <g>
+        <line class="st4" x1="2282.8" y1="1838.7" x2="2318.5" y2="1838.7"/>
+        <line class="st4" x1="2283.1" y1="1859.6" x2="2283.1" y2="1838.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2282.8" y1="1873.7" x2="2318.5" y2="1873.7"/>
+        <line class="st4" x1="2283.1" y1="1894.5" x2="2283.1" y2="1873.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2282.8" y1="1943.6" x2="2318.5" y2="1943.6"/>
+        <line class="st4" x1="2283.1" y1="1922.7" x2="2283.1" y2="1943.9"/>
+      </g>
+      <line class="st4" x1="2283.5" y1="1908.6" x2="2318.5" y2="1908.6"/>
+    </g>
+    <text class="st13" transform="translate(2288.7 1893.4)"><tspan x="0" y="0">23UC174</tspan></text>
+    <text class="st13" transform="translate(2288.5 1928.2)"><tspan x="0" y="0">23UC175</tspan></text>
+    <text class="st13" transform="translate(2323.4 1928.2)"><tspan x="0" y="0">23UC167</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2438.1 1823)"><tspan x="0" y="0">23UC142</tspan></text>
+    <text class="st13" transform="translate(2438.3 1858)"><tspan x="0" y="0">23UC143</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2473.1 1823)"><tspan x="0" y="0">23UC134</tspan></text>
+      <text class="st13" transform="translate(2473.1 1858)"><tspan x="0" y="0">23UC135</tspan></text>
+      <text class="st13" transform="translate(2473.1 1892.9)"><tspan x="0" y="0">23UC136</tspan></text>
+      <polyline class="st4" points="2467.7 1943.5 2467.7 1803.5 2467.7 1803.1"/>
+      <line class="st4" x1="2503.1" y1="1803.5" x2="2467.3" y2="1803.5"/>
+      <line class="st4" x1="2502.7" y1="1824.3" x2="2502.7" y2="1803.2"/>
+      <g>
+        <line class="st4" x1="2503.1" y1="1838.4" x2="2467.3" y2="1838.4"/>
+        <line class="st4" x1="2502.7" y1="1859.2" x2="2502.7" y2="1838.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2503.1" y1="1873.3" x2="2467.3" y2="1873.3"/>
+        <line class="st4" x1="2502.7" y1="1894.1" x2="2502.7" y2="1873"/>
+      </g>
+      <g>
+        <line class="st4" x1="2503.1" y1="1943.2" x2="2467.3" y2="1943.2"/>
+        <line class="st4" x1="2502.7" y1="1922.4" x2="2502.7" y2="1943.5"/>
+      </g>
+      <line class="st4" x1="2502.3" y1="1908.2" x2="2467.3" y2="1908.2"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2467.8 1943.5 2467.8 1803.5 2467.8 1803.1"/>
+      <line class="st4" x1="2432.5" y1="1803.5" x2="2468.2" y2="1803.5"/>
+      <line class="st4" x1="2432.9" y1="1824.3" x2="2432.9" y2="1803.2"/>
+      <g>
+        <line class="st4" x1="2432.5" y1="1838.4" x2="2468.2" y2="1838.4"/>
+        <line class="st4" x1="2432.9" y1="1859.2" x2="2432.9" y2="1838.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2432.5" y1="1873.3" x2="2468.2" y2="1873.3"/>
+        <line class="st4" x1="2432.9" y1="1894.1" x2="2432.9" y2="1873"/>
+      </g>
+      <g>
+        <line class="st4" x1="2432.5" y1="1943.2" x2="2468.2" y2="1943.2"/>
+        <line class="st4" x1="2432.9" y1="1922.4" x2="2432.9" y2="1943.5"/>
+      </g>
+      <line class="st4" x1="2433.2" y1="1908.2" x2="2468.2" y2="1908.2"/>
+    </g>
+    <text class="st13" transform="translate(2438.4 1893.1)"><tspan x="0" y="0">23UC144</tspan></text>
+    <text class="st13" transform="translate(2438.3 1927.9)"><tspan x="0" y="0">23UC145</tspan></text>
+    <text class="st13" transform="translate(2473.1 1927.9)"><tspan x="0" y="0">23UC137</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2529 1823)"><tspan x="0" y="0">23UC126</tspan></text>
+    <text class="st13" transform="translate(2529.2 1858)"><tspan x="0" y="0">23UC127</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2564 1823)"><tspan x="0" y="0">23UC122</tspan></text>
+      <text class="st13" transform="translate(2564 1858)"><tspan x="0" y="0">23UC123</tspan></text>
+      <text class="st13" transform="translate(2564 1892.9)"><tspan x="0" y="0">23UC124</tspan></text>
+      <polyline class="st4" points="2558.6 1943.5 2558.6 1803.5 2558.6 1803.1"/>
+      <line class="st4" x1="2593.9" y1="1803.5" x2="2558.2" y2="1803.5"/>
+      <line class="st4" x1="2593.6" y1="1824.3" x2="2593.6" y2="1803.2"/>
+      <g>
+        <line class="st4" x1="2593.9" y1="1838.4" x2="2558.2" y2="1838.4"/>
+        <line class="st4" x1="2593.6" y1="1859.2" x2="2593.6" y2="1838.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2593.9" y1="1873.3" x2="2558.2" y2="1873.3"/>
+        <line class="st4" x1="2593.6" y1="1894.1" x2="2593.6" y2="1873"/>
+      </g>
+      <g>
+        <line class="st4" x1="2593.9" y1="1943.2" x2="2558.2" y2="1943.2"/>
+        <line class="st4" x1="2593.6" y1="1922.4" x2="2593.6" y2="1943.5"/>
+      </g>
+      <line class="st4" x1="2593.2" y1="1908.2" x2="2558.2" y2="1908.2"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2558.7 1943.5 2558.7 1803.5 2558.7 1803.1"/>
+      <line class="st4" x1="2523.4" y1="1803.5" x2="2559.1" y2="1803.5"/>
+      <line class="st4" x1="2523.7" y1="1824.3" x2="2523.7" y2="1803.2"/>
+      <g>
+        <line class="st4" x1="2523.4" y1="1838.4" x2="2559.1" y2="1838.4"/>
+        <line class="st4" x1="2523.7" y1="1859.2" x2="2523.7" y2="1838.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2523.4" y1="1873.3" x2="2559.1" y2="1873.3"/>
+        <line class="st4" x1="2523.7" y1="1894.1" x2="2523.7" y2="1873"/>
+      </g>
+      <g>
+        <line class="st4" x1="2523.4" y1="1943.2" x2="2559.1" y2="1943.2"/>
+        <line class="st4" x1="2523.7" y1="1922.4" x2="2523.7" y2="1943.5"/>
+      </g>
+      <line class="st4" x1="2524.1" y1="1908.2" x2="2559.1" y2="1908.2"/>
+    </g>
+    <text class="st13" transform="translate(2529.3 1893.1)"><tspan x="0" y="0">23UC128</tspan></text>
+    <text class="st13" transform="translate(2529.2 1927.9)"><tspan x="0" y="0">23UC129</tspan></text>
+    <text class="st13" transform="translate(2564 1927.9)"><tspan x="0" y="0">23UC125</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2624.4 1823)"><tspan x="0" y="0">23UC118</tspan></text>
+    <text class="st13" transform="translate(2624.6 1857.9)"><tspan x="0" y="0">23UC119</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2659.4 1823)"><tspan x="0" y="0">23UC114</tspan></text>
+      <text class="st13" transform="translate(2659.4 1857.9)"><tspan x="0" y="0">23UC115</tspan></text>
+      <text class="st13" transform="translate(2659.4 1892.9)"><tspan x="0" y="0">23UC116</tspan></text>
+      <polyline class="st4" points="2654 1943.5 2654 1803.5 2654 1803.1"/>
+      <line class="st4" x1="2689.4" y1="1803.5" x2="2653.6" y2="1803.5"/>
+      <line class="st4" x1="2689" y1="1824.3" x2="2689" y2="1803.2"/>
+      <g>
+        <line class="st4" x1="2689.4" y1="1838.4" x2="2653.6" y2="1838.4"/>
+        <line class="st4" x1="2689" y1="1859.2" x2="2689" y2="1838.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.4" y1="1873.3" x2="2653.6" y2="1873.3"/>
+        <line class="st4" x1="2689" y1="1894.1" x2="2689" y2="1873"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.4" y1="1943.2" x2="2653.6" y2="1943.2"/>
+        <line class="st4" x1="2689" y1="1922.4" x2="2689" y2="1943.5"/>
+      </g>
+      <line class="st4" x1="2688.6" y1="1908.2" x2="2653.6" y2="1908.2"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2654.1 1943.5 2654.1 1803.5 2654.1 1803.1"/>
+      <line class="st4" x1="2618.8" y1="1803.5" x2="2654.5" y2="1803.5"/>
+      <line class="st4" x1="2619.2" y1="1824.3" x2="2619.2" y2="1803.2"/>
+      <g>
+        <line class="st4" x1="2618.8" y1="1838.4" x2="2654.5" y2="1838.4"/>
+        <line class="st4" x1="2619.2" y1="1859.2" x2="2619.2" y2="1838.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2618.8" y1="1873.3" x2="2654.5" y2="1873.3"/>
+        <line class="st4" x1="2619.2" y1="1894.1" x2="2619.2" y2="1873"/>
+      </g>
+      <g>
+        <line class="st4" x1="2618.8" y1="1943.2" x2="2654.5" y2="1943.2"/>
+        <line class="st4" x1="2619.2" y1="1922.4" x2="2619.2" y2="1943.5"/>
+      </g>
+      <line class="st4" x1="2619.5" y1="1908.2" x2="2654.5" y2="1908.2"/>
+    </g>
+    <text class="st13" transform="translate(2624.7 1893.1)"><tspan x="0" y="0">23UC120</tspan></text>
+    <text class="st13" transform="translate(2624.6 1927.8)"><tspan x="0" y="0">23UC121</tspan></text>
+    <text class="st13" transform="translate(2659.4 1927.8)"><tspan x="0" y="0">23UC117</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2722.7 1822.9)"><tspan x="0" y="0">23UC110</tspan></text>
+    <text class="st13" transform="translate(2722.8 1857.8)"><tspan x="0" y="0">23UC111</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2757.7 1822.9)"><tspan x="0" y="0">23UC106</tspan></text>
+      <text class="st13" transform="translate(2757.7 1857.8)"><tspan x="0" y="0">23UC107</tspan></text>
+      <text class="st13" transform="translate(2757.7 1892.8)"><tspan x="0" y="0">23UC108</tspan></text>
+      <polyline class="st4" points="2752.3 1943.4 2752.3 1803.4 2752.3 1803"/>
+      <line class="st4" x1="2787.6" y1="1803.3" x2="2751.9" y2="1803.3"/>
+      <line class="st4" x1="2787.2" y1="1824.2" x2="2787.2" y2="1803"/>
+      <g>
+        <line class="st4" x1="2787.6" y1="1838.2" x2="2751.9" y2="1838.2"/>
+        <line class="st4" x1="2787.2" y1="1859.1" x2="2787.2" y2="1837.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2787.6" y1="1873.2" x2="2751.9" y2="1873.2"/>
+        <line class="st4" x1="2787.2" y1="1894" x2="2787.2" y2="1872.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2787.6" y1="1943.1" x2="2751.9" y2="1943.1"/>
+        <line class="st4" x1="2787.2" y1="1922.2" x2="2787.2" y2="1943.4"/>
+      </g>
+      <line class="st4" x1="2786.9" y1="1908.1" x2="2751.9" y2="1908.1"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2752.4 1943.4 2752.4 1803.4 2752.4 1803"/>
+      <line class="st4" x1="2717" y1="1803.3" x2="2752.8" y2="1803.3"/>
+      <line class="st4" x1="2717.4" y1="1824.2" x2="2717.4" y2="1803"/>
+      <g>
+        <line class="st4" x1="2717" y1="1838.2" x2="2752.8" y2="1838.2"/>
+        <line class="st4" x1="2717.4" y1="1859.1" x2="2717.4" y2="1837.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2717" y1="1873.2" x2="2752.8" y2="1873.2"/>
+        <line class="st4" x1="2717.4" y1="1894" x2="2717.4" y2="1872.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2717" y1="1943.1" x2="2752.8" y2="1943.1"/>
+        <line class="st4" x1="2717.4" y1="1922.2" x2="2717.4" y2="1943.4"/>
+      </g>
+      <line class="st4" x1="2717.8" y1="1908.1" x2="2752.8" y2="1908.1"/>
+    </g>
+    <text class="st13" transform="translate(2722.9 1892.9)"><tspan x="0" y="0">23UC112</tspan></text>
+    <text class="st13" transform="translate(2722.8 1927.7)"><tspan x="0" y="0">23UC113</tspan></text>
+    <text class="st13" transform="translate(2757.7 1927.7)"><tspan x="0" y="0">23UC109</tspan></text>
+  </g>
+  <g>
+    <polyline class="st4" points="2379.2 1943.4 2379.2 1803.4 2379.2 1803"/>
+    <line class="st4" x1="2414.6" y1="1803.4" x2="2378.9" y2="1803.4"/>
+    <line class="st4" x1="2414.2" y1="1824.2" x2="2414.2" y2="1803.1"/>
+    <g>
+      <line class="st4" x1="2414.6" y1="1838.3" x2="2378.9" y2="1838.3"/>
+      <line class="st4" x1="2414.2" y1="1859.1" x2="2414.2" y2="1838"/>
+    </g>
+    <g>
+      <line class="st4" x1="2414.6" y1="1873.2" x2="2378.9" y2="1873.2"/>
+      <line class="st4" x1="2414.2" y1="1894" x2="2414.2" y2="1872.9"/>
+    </g>
+    <g>
+      <line class="st4" x1="2414.6" y1="1943.1" x2="2378.9" y2="1943.1"/>
+      <line class="st4" x1="2414.2" y1="1922.3" x2="2414.2" y2="1943.4"/>
+    </g>
+    <line class="st4" x1="2413.9" y1="1908.1" x2="2378.9" y2="1908.1"/>
+    <text class="st13" transform="translate(2384.6 1891.6)"><tspan x="0" y="0">23UC152</tspan></text>
+    <text class="st13" transform="translate(2384.6 1856.9)"><tspan x="0" y="0">23UC151</tspan></text>
+    <text class="st13" transform="translate(2384.6 1823)"><tspan x="0" y="0">23UC150</tspan></text>
+    <text class="st13" transform="translate(2384.6 1926.4)"><tspan x="0" y="0">23UC153</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2783.1 1224.2)"><tspan x="0" y="0">23UC44</tspan></text>
+    <text class="st13" transform="translate(2783.2 1253.2)"><tspan x="0" y="0">23UC45</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2816.2 1224.2)"><tspan x="0" y="0">23UC60</tspan></text>
+      <text class="st13" transform="translate(2816.2 1253.2)"><tspan x="0" y="0">23UC61</tspan></text>
+      <text class="st13" transform="translate(2816.2 1282.1)"><tspan x="0" y="0">23UC62</tspan></text>
+      <polyline class="st4" points="2810.1 1323.3 2810.1 1207.3 2810.1 1207"/>
+      <line class="st4" x1="2843.5" y1="1207.3" x2="2809.7" y2="1207.3"/>
+      <line class="st4" x1="2843.2" y1="1224.5" x2="2843.2" y2="1207"/>
+      <g>
+        <line class="st4" x1="2843.5" y1="1236.2" x2="2809.7" y2="1236.2"/>
+        <line class="st4" x1="2843.2" y1="1253.5" x2="2843.2" y2="1236"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1265.1" x2="2809.7" y2="1265.1"/>
+        <line class="st4" x1="2843.2" y1="1282.4" x2="2843.2" y2="1264.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1323.1" x2="2809.7" y2="1323.1"/>
+        <line class="st4" x1="2843.2" y1="1293.8" x2="2843.2" y2="1311.3"/>
+      </g>
+      <line class="st4" x1="2842.8" y1="1294.1" x2="2809.7" y2="1294.1"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2810.2 1323.3 2810.2 1207.3 2810.2 1207"/>
+      <line class="st4" x1="2776.8" y1="1207.3" x2="2810.5" y2="1207.3"/>
+      <line class="st4" x1="2777.1" y1="1224.5" x2="2777.1" y2="1207"/>
+      <g>
+        <line class="st4" x1="2776.8" y1="1236.2" x2="2810.5" y2="1236.2"/>
+        <line class="st4" x1="2777.1" y1="1253.5" x2="2777.1" y2="1236"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1265.1" x2="2810.5" y2="1265.1"/>
+        <line class="st4" x1="2777.1" y1="1282.4" x2="2777.1" y2="1264.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1323.1" x2="2810.5" y2="1323.1"/>
+        <line class="st4" x1="2777.1" y1="1293.8" x2="2777.1" y2="1311.3"/>
+      </g>
+      <line class="st4" x1="2777.4" y1="1294.1" x2="2810.5" y2="1294.1"/>
+    </g>
+    <text class="st13" transform="translate(2783.3 1282.3)"><tspan x="0" y="0">23UC46</tspan></text>
+    <text class="st13" transform="translate(2783.2 1311.1)"><tspan x="0" y="0">23UC47</tspan></text>
+    <text class="st13" transform="translate(2816.2 1311.1)"><tspan x="0" y="0">23UC63</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2696.1 1217.7)"><tspan x="0" y="0">23UC20</tspan></text>
+    <text class="st13" transform="translate(2696.2 1246.6)"><tspan x="0" y="0">23UC21</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2729.2 1217.7)"><tspan x="0" y="0">23UC32</tspan></text>
+      <text class="st13" transform="translate(2729.2 1246.6)"><tspan x="0" y="0">23UC33</tspan></text>
+      <text class="st13" transform="translate(2729.2 1275.5)"><tspan x="0" y="0">23UC34</tspan></text>
+      <polyline class="st4" points="2723.1 1316.7 2723.1 1200.7 2723.1 1200.4"/>
+      <line class="st4" x1="2756.5" y1="1200.7" x2="2722.7" y2="1200.7"/>
+      <line class="st4" x1="2756.2" y1="1217.9" x2="2756.2" y2="1200.4"/>
+      <g>
+        <line class="st4" x1="2756.5" y1="1229.6" x2="2722.7" y2="1229.6"/>
+        <line class="st4" x1="2756.2" y1="1246.9" x2="2756.2" y2="1229.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2756.5" y1="1258.6" x2="2722.7" y2="1258.6"/>
+        <line class="st4" x1="2756.2" y1="1275.8" x2="2756.2" y2="1258.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2756.5" y1="1316.5" x2="2722.7" y2="1316.5"/>
+        <line class="st4" x1="2756.2" y1="1299.2" x2="2756.2" y2="1316.7"/>
+      </g>
+      <line class="st4" x1="2755.8" y1="1287.5" x2="2722.7" y2="1287.5"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2723.2 1316.7 2723.2 1200.7 2723.2 1200.4"/>
+      <line class="st4" x1="2689.8" y1="1200.7" x2="2723.5" y2="1200.7"/>
+      <line class="st4" x1="2690.1" y1="1217.9" x2="2690.1" y2="1200.4"/>
+      <g>
+        <line class="st4" x1="2689.8" y1="1229.6" x2="2723.5" y2="1229.6"/>
+        <line class="st4" x1="2690.1" y1="1246.9" x2="2690.1" y2="1229.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.8" y1="1258.6" x2="2723.5" y2="1258.6"/>
+        <line class="st4" x1="2690.1" y1="1275.8" x2="2690.1" y2="1258.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.8" y1="1316.5" x2="2723.5" y2="1316.5"/>
+        <line class="st4" x1="2690.1" y1="1299.2" x2="2690.1" y2="1316.7"/>
+      </g>
+      <line class="st4" x1="2690.4" y1="1287.5" x2="2723.6" y2="1287.5"/>
+    </g>
+    <text class="st13" transform="translate(2696.3 1275.7)"><tspan x="0" y="0">23UC22</tspan></text>
+    <text class="st13" transform="translate(2696.2 1304.5)"><tspan x="0" y="0">23UC23</tspan></text>
+    <text class="st13" transform="translate(2729.2 1304.5)"><tspan x="0" y="0">23UC35</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2783.1 1340.2)"><tspan x="0" y="0">23UC48</tspan></text>
+    <text class="st13" transform="translate(2783.2 1369.2)"><tspan x="0" y="0">23UC49</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2816.2 1340.2)"><tspan x="0" y="0">23UC64</tspan></text>
+      <text class="st13" transform="translate(2816.2 1369.2)"><tspan x="0" y="0">23UC65</tspan></text>
+      <text class="st13" transform="translate(2816.2 1398.1)"><tspan x="0" y="0">23UC66</tspan></text>
+      <polyline class="st4" points="2810.1 1439.3 2810.1 1323.3 2810.1 1323"/>
+      <line class="st4" x1="2843.5" y1="1323.2" x2="2809.7" y2="1323.2"/>
+      <line class="st4" x1="2843.2" y1="1340.5" x2="2843.2" y2="1323"/>
+      <g>
+        <line class="st4" x1="2843.5" y1="1352.2" x2="2809.7" y2="1352.2"/>
+        <line class="st4" x1="2843.2" y1="1369.4" x2="2843.2" y2="1351.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1381.1" x2="2809.7" y2="1381.1"/>
+        <line class="st4" x1="2843.2" y1="1398.4" x2="2843.2" y2="1380.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1439" x2="2809.7" y2="1439"/>
+        <line class="st4" x1="2843.2" y1="1409.8" x2="2843.2" y2="1427.3"/>
+      </g>
+      <line class="st4" x1="2842.8" y1="1410" x2="2809.7" y2="1410"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2810.2 1439.3 2810.2 1323.3 2810.2 1323"/>
+      <line class="st4" x1="2776.8" y1="1323.2" x2="2810.5" y2="1323.2"/>
+      <line class="st4" x1="2777.1" y1="1340.5" x2="2777.1" y2="1323"/>
+      <g>
+        <line class="st4" x1="2776.8" y1="1352.2" x2="2810.5" y2="1352.2"/>
+        <line class="st4" x1="2777.1" y1="1369.4" x2="2777.1" y2="1351.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1381.1" x2="2810.5" y2="1381.1"/>
+        <line class="st4" x1="2777.1" y1="1398.4" x2="2777.1" y2="1380.9"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1439" x2="2810.5" y2="1439"/>
+        <line class="st4" x1="2777.1" y1="1409.8" x2="2777.1" y2="1427.3"/>
+      </g>
+      <line class="st4" x1="2777.4" y1="1410" x2="2810.5" y2="1410"/>
+    </g>
+    <text class="st13" transform="translate(2783.3 1398.2)"><tspan x="0" y="0">23UC50</tspan></text>
+    <text class="st13" transform="translate(2783.2 1427.1)"><tspan x="0" y="0">23UC51</tspan></text>
+    <text class="st13" transform="translate(2816.2 1427.1)"><tspan x="0" y="0">23UC67</tspan></text>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2783.1 1455.8)"><tspan x="0" y="0">23UC52</tspan></text>
+    <text class="st13" transform="translate(2783.2 1484.8)"><tspan x="0" y="0">23UC53</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2816.2 1455.8)"><tspan x="0" y="0">23UC68</tspan></text>
+      <text class="st13" transform="translate(2816.2 1484.8)"><tspan x="0" y="0">23UC69</tspan></text>
+      <text class="st13" transform="translate(2816.2 1513.7)"><tspan x="0" y="0">23UC70</tspan></text>
+      <polyline class="st4" points="2810.1 1526 2810.1 1438.8 2810.1 1438.6"/>
+      <line class="st4" x1="2843.5" y1="1438.9" x2="2809.7" y2="1438.9"/>
+      <line class="st4" x1="2843.2" y1="1456.1" x2="2843.2" y2="1438.6"/>
+      <g>
+        <line class="st4" x1="2843.5" y1="1467.8" x2="2809.7" y2="1467.8"/>
+        <line class="st4" x1="2843.2" y1="1485" x2="2843.2" y2="1467.5"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1496.7" x2="2809.7" y2="1496.7"/>
+        <line class="st4" x1="2843.2" y1="1514" x2="2843.2" y2="1496.5"/>
+      </g>
+      <line class="st4" x1="2842.8" y1="1525.6" x2="2809.7" y2="1525.6"/>
+    </g>
+    <g>
+      <line class="st4" x1="2776.8" y1="1438.9" x2="2810.5" y2="1438.9"/>
+      <line class="st4" x1="2777.1" y1="1456.1" x2="2777.1" y2="1438.6"/>
+      <g>
+        <line class="st4" x1="2776.8" y1="1467.8" x2="2810.5" y2="1467.8"/>
+        <line class="st4" x1="2777.1" y1="1485" x2="2777.1" y2="1467.5"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1496.7" x2="2810.5" y2="1496.7"/>
+        <line class="st4" x1="2777.1" y1="1514" x2="2777.1" y2="1496.5"/>
+      </g>
+      <line class="st4" x1="2777.4" y1="1525.6" x2="2810.5" y2="1525.6"/>
+    </g>
+    <text class="st13" transform="translate(2783.3 1513.9)"><tspan x="0" y="0">23UC54</tspan></text>
+  </g>
+  <g>
+    <polyline class="st4" points="2345.4 1627.2 2324.8 1627.2 2324.8 1591.9 2360.3 1591.9 2360.3 1626.8"/>
+    <polyline class="st4" points="2310 1627.2 2289.4 1627.2 2289.4 1591.9 2324.8 1591.9 2324.8 1626.8"/>
+    <polyline class="st4" points="2374.9 1627.1 2395 1627.1 2395 1591.9 2360.3 1591.9 2360.3 1626.8"/>
+    <polyline class="st4" points="2409.6 1627.1 2429.8 1627.1 2429.8 1591.9 2395.1 1591.9 2395.1 1626.8"/>
+    <polyline class="st4" points="2444.4 1627.2 2464.5 1627.2 2464.5 1591.9 2429.8 1591.9 2429.8 1626.8"/>
+    <polyline class="st4" points="2479.1 1627.2 2499.3 1627.2 2499.3 1591.9 2464.6 1591.9 2464.6 1626.8"/>
+  </g>
+  <g>
+    <text class="st13" transform="translate(2696.1 1478.6)"><tspan x="0" y="0">23UC28</tspan></text>
+    <text class="st13" transform="translate(2696.2 1507.6)"><tspan x="0" y="0">23UC29</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2729.2 1478.6)"><tspan x="0" y="0">23UC40</tspan></text>
+      <text class="st13" transform="translate(2729.2 1507.6)"><tspan x="0" y="0">23UC41</tspan></text>
+      <text class="st13" transform="translate(2729.2 1536.5)"><tspan x="0" y="0">23UC42</tspan></text>
+      <polyline class="st4" points="2723 1577.7 2723 1461.7 2723 1461.4"/>
+      <line class="st4" x1="2756.5" y1="1461.6" x2="2722.7" y2="1461.6"/>
+      <line class="st4" x1="2756.1" y1="1490.9" x2="2756.1" y2="1473.4"/>
+      <g>
+        <line class="st4" x1="2756.5" y1="1490.6" x2="2722.7" y2="1490.6"/>
+        <line class="st4" x1="2756.1" y1="1519.8" x2="2756.1" y2="1502.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2756.5" y1="1519.5" x2="2722.7" y2="1519.5"/>
+        <line class="st4" x1="2756.1" y1="1548.8" x2="2756.1" y2="1531.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2756.5" y1="1577.4" x2="2722.7" y2="1577.4"/>
+        <line class="st4" x1="2756.1" y1="1560.2" x2="2756.1" y2="1577.7"/>
+      </g>
+      <line class="st4" x1="2755.8" y1="1548.4" x2="2722.7" y2="1548.4"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2723.2 1577.7 2723.2 1461.7 2723.2 1461.4"/>
+      <line class="st4" x1="2689.7" y1="1461.6" x2="2723.5" y2="1461.6"/>
+      <line class="st4" x1="2690.1" y1="1490.9" x2="2690.1" y2="1473.4"/>
+      <g>
+        <line class="st4" x1="2689.7" y1="1490.6" x2="2723.5" y2="1490.6"/>
+        <line class="st4" x1="2690.1" y1="1519.8" x2="2690.1" y2="1502.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.7" y1="1519.5" x2="2723.5" y2="1519.5"/>
+        <line class="st4" x1="2690.1" y1="1548.8" x2="2690.1" y2="1531.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.7" y1="1577.4" x2="2723.5" y2="1577.4"/>
+        <line class="st4" x1="2690.1" y1="1560.2" x2="2690.1" y2="1577.7"/>
+      </g>
+      <line class="st4" x1="2690.4" y1="1548.4" x2="2723.5" y2="1548.4"/>
+    </g>
+    <text class="st13" transform="translate(2696.3 1536.6)"><tspan x="0" y="0">23UC30</tspan></text>
+    <text class="st13" transform="translate(2696.2 1565.5)"><tspan x="0" y="0">23UC31</tspan></text>
+    <text class="st13" transform="translate(2729.2 1565.5)"><tspan x="0" y="0">23UC43</tspan></text>
+  </g>
+  <g>
+    <g>
+      <polyline class="st4" points="2258.5 1529.7 2153.4 1529.7 2153.1 1529.7"/>
+      <line class="st4" x1="2153.5" y1="1494.4" x2="2153.5" y2="1530.1"/>
+      <line class="st4" x1="2174.3" y1="1494.7" x2="2153.2" y2="1494.7"/>
+      <g>
+        <line class="st4" x1="2188.4" y1="1494.4" x2="2188.4" y2="1530.1"/>
+        <line class="st4" x1="2223.2" y1="1494.7" x2="2202.1" y2="1494.7"/>
+      </g>
+      <line class="st4" x1="2223.3" y1="1494.4" x2="2223.3" y2="1530.1"/>
+      <g>
+        <line class="st4" x1="2258.2" y1="1494.4" x2="2258.2" y2="1530.1"/>
+        <line class="st4" x1="2237.4" y1="1494.7" x2="2258.5" y2="1494.7"/>
+      </g>
+      <text class="st13" transform="translate(2158.8 1514.2)"><tspan x="0" y="0">23UC205</tspan></text>
+      <text class="st13" transform="translate(2193.6 1514.3)"><tspan x="0" y="0">23UC204</tspan></text>
+      <text class="st13" transform="translate(2228.5 1514.3)"><tspan x="0" y="0">23UC203</tspan></text>
+    </g>
+    <g>
+      <polyline class="st4" points="2258.6 1529.6 2153.4 1529.6 2153.1 1529.6"/>
+      <line class="st4" x1="2153.5" y1="1564.9" x2="2153.5" y2="1529.2"/>
+      <line class="st4" x1="2174.3" y1="1564.6" x2="2153.2" y2="1564.6"/>
+      <g>
+        <line class="st4" x1="2188.4" y1="1564.9" x2="2188.4" y2="1529.2"/>
+        <line class="st4" x1="2223.2" y1="1564.6" x2="2202.1" y2="1564.6"/>
+      </g>
+      <line class="st4" x1="2223.3" y1="1564.9" x2="2223.3" y2="1529.2"/>
+      <g>
+        <line class="st4" x1="2258.2" y1="1564.9" x2="2258.2" y2="1529.2"/>
+        <line class="st4" x1="2237.4" y1="1564.6" x2="2258.5" y2="1564.6"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2228.7 1548.9)"><tspan x="0" y="0">23UC200</tspan></text>
+    <text class="st13" transform="translate(2193.8 1549.1)"><tspan x="0" y="0">23UC201</tspan></text>
+  </g>
+  <text class="st13" transform="translate(2158.9 1549.2)"><tspan x="0" y="0">23UC202</tspan></text>
+  <g>
+    <g>
+      <polyline class="st4" points="2258.3 1620.4 2153.2 1620.4 2152.9 1620.4"/>
+      <line class="st4" x1="2153.3" y1="1585.1" x2="2153.3" y2="1620.8"/>
+      <line class="st4" x1="2174.1" y1="1585.4" x2="2153" y2="1585.4"/>
+      <g>
+        <line class="st4" x1="2188.2" y1="1585.1" x2="2188.2" y2="1620.8"/>
+        <line class="st4" x1="2223" y1="1585.4" x2="2201.9" y2="1585.4"/>
+      </g>
+      <line class="st4" x1="2223.1" y1="1585.1" x2="2223.1" y2="1620.8"/>
+      <g>
+        <line class="st4" x1="2258" y1="1585.1" x2="2258" y2="1620.8"/>
+        <line class="st4" x1="2237.2" y1="1585.4" x2="2258.3" y2="1585.4"/>
+      </g>
+      <text class="st13" transform="translate(2158.6 1604.9)"><tspan x="0" y="0">23UC199</tspan></text>
+      <text class="st13" transform="translate(2193.4 1605)"><tspan x="0" y="0">23UC198</tspan></text>
+      <text class="st13" transform="translate(2228.3 1605)"><tspan x="0" y="0">23UC197</tspan></text>
+    </g>
+    <g>
+      <polyline class="st4" points="2258.4 1620.3 2153.2 1620.3 2152.9 1620.3"/>
+      <line class="st4" x1="2153.3" y1="1655.6" x2="2153.3" y2="1619.9"/>
+      <line class="st4" x1="2174.1" y1="1655.3" x2="2153" y2="1655.3"/>
+      <g>
+        <line class="st4" x1="2188.2" y1="1655.6" x2="2188.2" y2="1619.9"/>
+        <line class="st4" x1="2223" y1="1655.3" x2="2201.9" y2="1655.3"/>
+      </g>
+      <line class="st4" x1="2223.1" y1="1655.6" x2="2223.1" y2="1619.9"/>
+      <g>
+        <line class="st4" x1="2258" y1="1655.6" x2="2258" y2="1619.9"/>
+        <line class="st4" x1="2237.2" y1="1655.3" x2="2258.3" y2="1655.3"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2228.5 1639.7)"><tspan x="0" y="0">23UC194</tspan></text>
+    <text class="st13" transform="translate(2193.6 1639.8)"><tspan x="0" y="0">23UC195</tspan></text>
+  </g>
+  <text class="st13" transform="translate(2158.7 1640)"><tspan x="0" y="0">23UC196</tspan></text>
+  <g>
+    <g>
+      <polyline class="st4" points="2258.5 1713.9 2153.5 1713.9 2153.2 1713.9"/>
+      <line class="st4" x1="2153.5" y1="1678.6" x2="2153.5" y2="1714.3"/>
+      <line class="st4" x1="2174.3" y1="1678.9" x2="2153.2" y2="1678.9"/>
+      <g>
+        <line class="st4" x1="2188.4" y1="1678.6" x2="2188.4" y2="1714.3"/>
+        <line class="st4" x1="2223.2" y1="1678.9" x2="2202.1" y2="1678.9"/>
+      </g>
+      <line class="st4" x1="2223.3" y1="1678.6" x2="2223.3" y2="1714.3"/>
+      <g>
+        <line class="st4" x1="2258.2" y1="1678.6" x2="2258.2" y2="1714.3"/>
+        <line class="st4" x1="2237.4" y1="1678.9" x2="2258.5" y2="1678.9"/>
+      </g>
+      <text class="st13" transform="translate(2158.8 1698.4)"><tspan x="0" y="0">23UC193</tspan></text>
+      <text class="st13" transform="translate(2193.7 1698.5)"><tspan x="0" y="0">23UC192</tspan></text>
+      <text class="st13" transform="translate(2228.6 1698.5)"><tspan x="0" y="0">23UC191</tspan></text>
+    </g>
+    <g>
+      <polyline class="st4" points="2258.6 1713.8 2153.5 1713.8 2153.2 1713.8"/>
+      <line class="st4" x1="2153.5" y1="1749.1" x2="2153.5" y2="1713.4"/>
+      <line class="st4" x1="2174.3" y1="1748.8" x2="2153.2" y2="1748.8"/>
+      <g>
+        <line class="st4" x1="2188.4" y1="1749.1" x2="2188.4" y2="1713.4"/>
+        <line class="st4" x1="2223.2" y1="1748.8" x2="2202.1" y2="1748.8"/>
+      </g>
+      <line class="st4" x1="2223.3" y1="1749.1" x2="2223.3" y2="1713.4"/>
+      <g>
+        <line class="st4" x1="2258.2" y1="1749.1" x2="2258.2" y2="1713.4"/>
+        <line class="st4" x1="2237.4" y1="1748.8" x2="2258.5" y2="1748.8"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2230.4 1733.2)"><tspan x="0" y="0">23UC18</tspan></text>
+    <text class="st13" transform="translate(2193.9 1733.3)"><tspan x="0" y="0">23UC189</tspan></text>
+  </g>
+  <text class="st13" transform="translate(2158.9 1733.4)"><tspan x="0" y="0">23UC190</tspan></text>
+  <g>
+    <g>
+      <g>
+        <polyline class="st4" points="2258.4 1799.9 2153.4 1799.9 2153.1 1799.9"/>
+        <line class="st4" x1="2153.4" y1="1764.5" x2="2153.4" y2="1800.2"/>
+        <line class="st4" x1="2174.2" y1="1764.9" x2="2153.1" y2="1764.9"/>
+        <g>
+          <line class="st4" x1="2188.3" y1="1764.5" x2="2188.3" y2="1800.2"/>
+          <line class="st4" x1="2223.1" y1="1764.9" x2="2202" y2="1764.9"/>
+        </g>
+        <line class="st4" x1="2223.3" y1="1764.5" x2="2223.3" y2="1800.2"/>
+        <g>
+          <line class="st4" x1="2258.1" y1="1764.5" x2="2258.1" y2="1800.2"/>
+          <line class="st4" x1="2237.3" y1="1764.9" x2="2258.4" y2="1764.9"/>
+        </g>
+        <text class="st13" transform="translate(2158.7 1784.3)"><tspan x="0" y="0">23UC187</tspan></text>
+        <text class="st13" transform="translate(2193.6 1784.4)"><tspan x="0" y="0">23UC186</tspan></text>
+        <text class="st13" transform="translate(2228.5 1784.5)"><tspan x="0" y="0">23UC185</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2258.5 1799.7 2153.4 1799.7 2153.1 1799.7"/>
+        <line class="st4" x1="2153.4" y1="1835.1" x2="2153.4" y2="1799.4"/>
+        <line class="st4" x1="2174.2" y1="1834.7" x2="2153.1" y2="1834.7"/>
+        <g>
+          <line class="st4" x1="2188.3" y1="1835.1" x2="2188.3" y2="1799.4"/>
+          <line class="st4" x1="2223.1" y1="1834.7" x2="2202" y2="1834.7"/>
+        </g>
+        <line class="st4" x1="2223.3" y1="1835.1" x2="2223.3" y2="1799.4"/>
+        <g>
+          <line class="st4" x1="2258.1" y1="1835.1" x2="2258.1" y2="1799.4"/>
+          <line class="st4" x1="2237.3" y1="1834.7" x2="2258.4" y2="1834.7"/>
+        </g>
+      </g>
+      <text class="st13" transform="translate(2228.7 1819.1)"><tspan x="0" y="0">23UC182</tspan></text>
+      <text class="st13" transform="translate(2193.8 1819.2)"><tspan x="0" y="0">23UC183</tspan></text>
+    </g>
+    <text class="st13" transform="translate(2158.8 1819.4)"><tspan x="0" y="0">23UC184</tspan></text>
+  </g>
+  <g>
+    <g>
+      <polyline class="st4" points="2258.6 1892.7 2153.6 1892.7 2153.3 1892.7"/>
+      <line class="st4" x1="2153.6" y1="1857.3" x2="2153.6" y2="1893.1"/>
+      <line class="st4" x1="2174.4" y1="1857.7" x2="2153.3" y2="1857.7"/>
+      <g>
+        <line class="st4" x1="2188.5" y1="1857.3" x2="2188.5" y2="1893.1"/>
+        <line class="st4" x1="2223.4" y1="1857.7" x2="2202.2" y2="1857.7"/>
+      </g>
+      <line class="st4" x1="2223.5" y1="1857.3" x2="2223.5" y2="1893.1"/>
+      <g>
+        <line class="st4" x1="2258.3" y1="1857.3" x2="2258.3" y2="1893.1"/>
+        <line class="st4" x1="2237.5" y1="1857.7" x2="2258.6" y2="1857.7"/>
+      </g>
+      <text class="st13" transform="translate(2158.9 1877.2)"><tspan x="0" y="0">23UC181</tspan></text>
+      <text class="st13" transform="translate(2193.8 1877.3)"><tspan x="0" y="0">23UC180</tspan></text>
+      <text class="st13" transform="translate(2228.7 1877.3)"><tspan x="0" y="0">23UC179</tspan></text>
+    </g>
+    <g>
+      <polyline class="st4" points="2258.7 1892.6 2153.6 1892.6 2153.3 1892.6"/>
+      <line class="st4" x1="2153.6" y1="1903.2" x2="2153.6" y2="1892.2"/>
+      <g>
+        <line class="st4" x1="2188.5" y1="1927.9" x2="2188.5" y2="1892.2"/>
+        <line class="st4" x1="2223.4" y1="1927.5" x2="2202.2" y2="1927.5"/>
+      </g>
+      <line class="st4" x1="2223.5" y1="1927.9" x2="2223.5" y2="1892.2"/>
+      <g>
+        <line class="st4" x1="2258.3" y1="1927.9" x2="2258.3" y2="1892.2"/>
+        <line class="st4" x1="2237.5" y1="1927.5" x2="2258.6" y2="1927.5"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2228.9 1911.9)"><tspan x="0" y="0">23UC176</tspan></text>
+    <text class="st13" transform="translate(2194 1912.1)"><tspan x="0" y="0">23UC177</tspan></text>
+  </g>
+  <text class="st13" transform="translate(2157.2 1909.1)"><tspan x="0" y="0">23UC178A</tspan><tspan x="0" y="5">23UC178B</tspan></text>
+  <g>
+    <g>
+      <g>
+        <polyline class="st4" points="2628.6 1748.6 2523.6 1748.6 2523.3 1748.6"/>
+        <line class="st4" x1="2523.7" y1="1713.3" x2="2523.7" y2="1749"/>
+        <line class="st4" x1="2544.5" y1="1713.7" x2="2523.3" y2="1713.7"/>
+        <g>
+          <line class="st4" x1="2558.6" y1="1713.3" x2="2558.6" y2="1749"/>
+          <line class="st4" x1="2593.4" y1="1713.7" x2="2572.3" y2="1713.7"/>
+        </g>
+        <line class="st4" x1="2593.5" y1="1713.3" x2="2593.5" y2="1749"/>
+        <g>
+          <line class="st4" x1="2628.3" y1="1713.3" x2="2628.3" y2="1749"/>
+          <line class="st4" x1="2607.5" y1="1713.7" x2="2628.6" y2="1713.7"/>
+        </g>
+        <text class="st13" transform="translate(2530.6 1733.1)"><tspan x="0" y="0">23UC98</tspan></text>
+        <text class="st13" transform="translate(2565.4 1733.2)"><tspan x="0" y="0">23UC97</tspan></text>
+        <text class="st13" transform="translate(2600.3 1733.3)"><tspan x="0" y="0">23UC96</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2628.7 1748.5 2523.6 1748.5 2523.3 1748.5"/>
+        <line class="st4" x1="2523.7" y1="1783.9" x2="2523.7" y2="1748.2"/>
+        <line class="st4" x1="2544.5" y1="1783.5" x2="2523.3" y2="1783.5"/>
+        <g>
+          <line class="st4" x1="2558.6" y1="1783.9" x2="2558.6" y2="1748.2"/>
+          <line class="st4" x1="2593.4" y1="1783.5" x2="2572.3" y2="1783.5"/>
+        </g>
+        <line class="st4" x1="2593.5" y1="1783.9" x2="2593.5" y2="1748.2"/>
+        <g>
+          <line class="st4" x1="2628.3" y1="1783.9" x2="2628.3" y2="1748.2"/>
+          <line class="st4" x1="2607.5" y1="1783.5" x2="2628.6" y2="1783.5"/>
+        </g>
+      </g>
+      <text class="st13" transform="translate(2598.9 1767.9)"><tspan x="0" y="0">23UC103</tspan></text>
+      <text class="st13" transform="translate(2564 1768)"><tspan x="0" y="0">23UC104</tspan></text>
+    </g>
+    <text class="st13" transform="translate(2529.1 1768.2)"><tspan x="0" y="0">23UC105</tspan></text>
+  </g>
+  <g>
+    <g>
+      <g>
+        <polyline class="st4" points="2733.3 1748.6 2628.3 1748.6 2628 1748.6"/>
+        <line class="st4" x1="2628.4" y1="1713.3" x2="2628.4" y2="1749"/>
+        <line class="st4" x1="2663.2" y1="1713.7" x2="2642.1" y2="1713.7"/>
+        <g>
+          <line class="st4" x1="2663.3" y1="1713.3" x2="2663.3" y2="1749"/>
+          <line class="st4" x1="2698.1" y1="1713.7" x2="2677" y2="1713.7"/>
+        </g>
+        <line class="st4" x1="2698.2" y1="1713.3" x2="2698.2" y2="1749"/>
+        <g>
+          <line class="st4" x1="2733.1" y1="1713.3" x2="2733.1" y2="1749"/>
+          <line class="st4" x1="2712.3" y1="1713.7" x2="2733.4" y2="1713.7"/>
+        </g>
+        <text class="st13" transform="translate(2635.3 1733.1)"><tspan x="0" y="0">23UC95</tspan></text>
+        <text class="st13" transform="translate(2670.2 1733.2)"><tspan x="0" y="0">23UC94</tspan></text>
+        <text class="st13" transform="translate(2705.1 1733.3)"><tspan x="0" y="0">23UC93</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2733.5 1748.5 2628.3 1748.5 2628 1748.5"/>
+        <line class="st4" x1="2628.4" y1="1783.9" x2="2628.4" y2="1748.2"/>
+        <line class="st4" x1="2663.2" y1="1783.5" x2="2642.1" y2="1783.5"/>
+        <g>
+          <line class="st4" x1="2663.3" y1="1783.9" x2="2663.3" y2="1748.2"/>
+          <line class="st4" x1="2698.1" y1="1783.5" x2="2677" y2="1783.5"/>
+        </g>
+        <line class="st4" x1="2698.2" y1="1783.9" x2="2698.2" y2="1748.2"/>
+        <g>
+          <line class="st4" x1="2733.1" y1="1783.9" x2="2733.1" y2="1748.2"/>
+          <line class="st4" x1="2712.3" y1="1783.5" x2="2733.4" y2="1783.5"/>
+        </g>
+      </g>
+      <text class="st13" transform="translate(2703.6 1767.9)"><tspan x="0" y="0">23UC100</tspan></text>
+      <text class="st13" transform="translate(2668.7 1768)"><tspan x="0" y="0">23UC101</tspan></text>
+    </g>
+    <text class="st13" transform="translate(2633.8 1768.2)"><tspan x="0" y="0">23UC102</tspan></text>
+  </g>
+  <g>
+    <g>
+      <g>
+        <line class="st4" x1="2733.2" y1="1713.3" x2="2733.2" y2="1749"/>
+        <line class="st4" x1="2768" y1="1713.7" x2="2746.9" y2="1713.7"/>
+        <line class="st4" x1="2768.1" y1="1713.3" x2="2768.1" y2="1749"/>
+        <text class="st13" transform="translate(2740.1 1733.1)"><tspan x="0" y="0">23UC92</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2768.2 1748.5 2732.9 1748.5 2732.8 1748.5"/>
+        <line class="st4" x1="2733.2" y1="1783.9" x2="2733.2" y2="1748.2"/>
+        <line class="st4" x1="2768" y1="1783.5" x2="2746.9" y2="1783.5"/>
+        <line class="st4" x1="2768.1" y1="1783.9" x2="2768.1" y2="1748.2"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2740.2 1768.2)"><tspan x="0" y="0">23UC99</tspan></text>
+  </g>
+  <g>
+    <g>
+      <g>
+        <polyline class="st4" points="2642 1645.4 2554.9 1645.4 2554.7 1645.4"/>
+        <line class="st4" x1="2555" y1="1612" x2="2555" y2="1645.7"/>
+        <line class="st4" x1="2584.2" y1="1612.3" x2="2566.7" y2="1612.3"/>
+        <g>
+          <line class="st4" x1="2583.9" y1="1612" x2="2583.9" y2="1645.7"/>
+          <line class="st4" x1="2612.8" y1="1612.3" x2="2595.3" y2="1612.3"/>
+        </g>
+        <line class="st4" x1="2612.8" y1="1612" x2="2612.8" y2="1645.7"/>
+        <g>
+          <line class="st4" x1="2641.7" y1="1612" x2="2641.7" y2="1645.7"/>
+          <line class="st4" x1="2624.5" y1="1612.3" x2="2642" y2="1612.3"/>
+        </g>
+        <text class="st13" transform="translate(2558.9 1630.9)"><tspan x="0" y="0">23UC82</tspan></text>
+        <text class="st13" transform="translate(2587.8 1631)"><tspan x="0" y="0">23UC81</tspan></text>
+        <text class="st13" transform="translate(2616.7 1631.1)"><tspan x="0" y="0">23UC80</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2642.1 1645.2 2525.8 1645.2 2525.5 1645.2"/>
+        <line class="st4" x1="2555" y1="1678.6" x2="2555" y2="1644.9"/>
+        <line class="st4" x1="2584.2" y1="1678.3" x2="2566.7" y2="1678.3"/>
+        <line class="st4" x1="2555.3" y1="1678.3" x2="2537.8" y2="1678.3"/>
+        <g>
+          <line class="st4" x1="2583.9" y1="1678.6" x2="2583.9" y2="1644.9"/>
+          <line class="st4" x1="2612.8" y1="1678.3" x2="2595.3" y2="1678.3"/>
+        </g>
+        <line class="st4" x1="2612.8" y1="1678.6" x2="2612.8" y2="1644.9"/>
+        <g>
+          <line class="st4" x1="2641.7" y1="1678.6" x2="2641.7" y2="1644.9"/>
+          <line class="st4" x1="2624.5" y1="1678.3" x2="2642" y2="1678.3"/>
+        </g>
+        <line class="st4" x1="2525.9" y1="1678.8" x2="2525.9" y2="1645.1"/>
+      </g>
+      <text class="st13" transform="translate(2616.9 1663.8)"><tspan x="0" y="0">23UC87</tspan></text>
+      <text class="st13" transform="translate(2588 1663.9)"><tspan x="0" y="0">23UC88</tspan></text>
+    </g>
+    <text class="st13" transform="translate(2559 1664)"><tspan x="0" y="0">23UC89</tspan></text>
+    <text class="st13" transform="translate(2530 1664)"><tspan x="0" y="0">23UC90</tspan></text>
+  </g>
+  <g>
+    <g>
+      <g>
+        <polyline class="st4" points="2728.7 1645.4 2641.7 1645.4 2641.5 1645.4"/>
+        <line class="st4" x1="2641.8" y1="1612" x2="2641.8" y2="1645.7"/>
+        <line class="st4" x1="2670.6" y1="1612.3" x2="2653.1" y2="1612.3"/>
+        <g>
+          <line class="st4" x1="2670.7" y1="1612" x2="2670.7" y2="1645.7"/>
+          <line class="st4" x1="2699.5" y1="1612.3" x2="2682" y2="1612.3"/>
+        </g>
+        <line class="st4" x1="2699.6" y1="1612" x2="2699.6" y2="1645.7"/>
+        <g>
+          <line class="st4" x1="2728.5" y1="1612" x2="2728.5" y2="1645.7"/>
+          <line class="st4" x1="2711.3" y1="1612.3" x2="2728.8" y2="1612.3"/>
+        </g>
+        <text class="st13" transform="translate(2645.7 1630.9)"><tspan x="0" y="0">23UC79</tspan></text>
+        <text class="st13" transform="translate(2674.6 1631)"><tspan x="0" y="0">23UC78</tspan></text>
+        <text class="st13" transform="translate(2703.5 1631.1)"><tspan x="0" y="0">23UC77</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2728.8 1645.2 2641.7 1645.2 2641.5 1645.2"/>
+        <line class="st4" x1="2641.8" y1="1678.6" x2="2641.8" y2="1644.9"/>
+        <line class="st4" x1="2670.6" y1="1678.3" x2="2653.1" y2="1678.3"/>
+        <g>
+          <line class="st4" x1="2670.7" y1="1678.6" x2="2670.7" y2="1644.9"/>
+          <line class="st4" x1="2699.5" y1="1678.3" x2="2682" y2="1678.3"/>
+        </g>
+        <line class="st4" x1="2699.6" y1="1678.6" x2="2699.6" y2="1644.9"/>
+        <g>
+          <line class="st4" x1="2728.5" y1="1678.6" x2="2728.5" y2="1644.9"/>
+          <line class="st4" x1="2711.3" y1="1678.3" x2="2728.8" y2="1678.3"/>
+        </g>
+      </g>
+      <text class="st13" transform="translate(2703.7 1663.8)"><tspan x="0" y="0">23UC84</tspan></text>
+      <text class="st13" transform="translate(2674.8 1663.9)"><tspan x="0" y="0">23UC85</tspan></text>
+    </g>
+    <text class="st13" transform="translate(2645.8 1664)"><tspan x="0" y="0">23UC86</tspan></text>
+  </g>
+  <g>
+    <g>
+      <g>
+        <line class="st4" x1="2728.6" y1="1612" x2="2728.6" y2="1645.7"/>
+        <line class="st4" x1="2757.4" y1="1612.3" x2="2739.9" y2="1612.3"/>
+        <line class="st4" x1="2757.5" y1="1612" x2="2757.5" y2="1645.7"/>
+        <text class="st13" transform="translate(2732.6 1630.9)"><tspan x="0" y="0">23UC76</tspan></text>
+      </g>
+      <g>
+        <polyline class="st4" points="2757.6 1645.2 2728.4 1645.2 2728.3 1645.2"/>
+        <line class="st4" x1="2728.6" y1="1678.6" x2="2728.6" y2="1644.9"/>
+        <line class="st4" x1="2757.4" y1="1678.3" x2="2739.9" y2="1678.3"/>
+        <line class="st4" x1="2757.5" y1="1678.6" x2="2757.5" y2="1644.9"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2732.7 1664)"><tspan x="0" y="0">23UC83</tspan></text>
+  </g>
+  <g>
+    <polyline class="st4" points="2250.5 1476.7 2215 1476.7 2214.9 1476.7"/>
+    <line class="st4" x1="2215.2" y1="1441.3" x2="2215.2" y2="1477"/>
+    <line class="st4" x1="2236.1" y1="1441.7" x2="2214.9" y2="1441.7"/>
+    <line class="st4" x1="2250.1" y1="1441.3" x2="2250.1" y2="1477"/>
+    <text class="st13" transform="translate(2220.5 1461.1)"><tspan x="0" y="0">23UC206</tspan></text>
+  </g>
+  <polyline class="st4" points="2753.9 1069.2 2753.9 1107.2 2766.6 1107.2"/>
+  <polyline class="st4" points="2779.1 1069.2 2779.1 1107.2 2791.8 1107.2"/>
+  <polyline class="st4" points="2804.1 1069.2 2804.1 1107.2 2816.8 1107.2"/>
+  <polyline class="st4" points="2829.3 1069.2 2829.3 1107.2 2842 1107.2"/>
+  <polyline class="st3" points="2290.5 1349 2290.5 1397.8 2320.1 1397.8"/>
+  <polyline class="st3" points="2334.8 1348.8 2334.8 1397.9 2363.8 1397.9"/>
+  <polyline class="st3" points="2426.1 1347.8 2426.1 1397.8 2393.7 1397.8"/>
+  <polyline class="st3" points="2251.9 1204.8 2251.9 1232.7 2239.5 1232.7 2239.5 1243.4"/>
+  <polyline class="st3" points="2239.4 1255.4 2239.4 1258.4 2252.1 1258.4 2251.7 1297.1 2239.4 1297.1 2239.4 1299.5"/>
+  <polyline class="st3" points="2255.8 1337.4 2255.8 1323 2234 1323 2234 1333.2 2127.4 1333.2"/>
+  <polyline class="st3" points="2151 1966.7 2126.9 1966.7 2126.9 1368.6 2126.9 1077.4 2178.2 1077.4 2222.9 1034 2013.1 824.6 2012.2 824.6"/>
+  <line class="st3" x1="2181.4" y1="1966.1" x2="2711.8" y2="1966.1"/>
+  <polyline class="st3" points="2727.6 1966.4 2862.9 1966.4 2862.9 1790.3 2862.9 1068.8 2794.4 1068.8 2727.6 1068.8"/>
+  <polyline class="st3" points="2711.1 1069.5 2418.4 1069.5 2306.5 1069.5 2306.5 1063.8 2192.5 952.2 2212.3 932.4 2219.2 939.4"/>
+  <polyline class="st3" points="2236.8 920.6 2230.8 914.5 2245.7 899.6 2411.7 899.6"/>
+  <line class="st3" x1="2429.1" y1="899.6" x2="2541.6" y2="899.6"/>
+  <polyline class="st3" points="2555.2 899 2561.3 899 2561.3 1069.3"/>
+  <line class="st3" x1="2561.3" y1="874.9" x2="2561.3" y2="899"/>
+  <polyline class="st3" points="2561.3 862.6 2561.3 854.8 2461.3 854.8"/>
+  <polyline class="st3" points="2448.8 854.8 2302.1 854.8 2302.1 775.3 2451.1 626.3 2451.1 512.5 2433.9 495.3 2433.9 399.8"/>
+  <g>
+    <path class="st15" d="M1985.4,860.4c0,0,.1,0,.1.1v12.3c0,0,0,.1-.1.1s-.1,0-.1-.1v-12.3c0,0,0-.1.1-.1Z"/>
+    <path class="st15" d="M1997.6,860.4c0,0,.1,0,.1.1,0,6.8-5.6,12.4-12.4,12.4s-.1,0-.1-.1,0-.1.1-.1c6.7,0,12.1-5.4,12.1-12.1s0-.1.1-.1Z"/>
+    <path class="st15" d="M2011,860.4c0,0,.1,0,.1.1v12.3c0,0,0,.1-.1.1s-.1,0-.1-.1v-12.3c0,0,0-.1.1-.1Z"/>
+    <path class="st15" d="M1998.7,860.4c0,0,.1,0,.1.1,0,6.7,5.4,12.1,12.1,12.1s.1,0,.1.1,0,.1-.1.1c-6.8,0-12.4-5.5-12.4-12.4s0-.1.1-.1Z"/>
+  </g>
+  <g>
+    <path class="st15" d="M1985.4,825c0,0,.1,0,.1.1v12.3c0,0,0,.1-.1.1s-.1,0-.1-.1v-12.3c0,0,0-.1.1-.1Z"/>
+    <path class="st15" d="M1997.6,825c0,0,.1,0,.1.1,0,6.8-5.6,12.4-12.4,12.4s-.1,0-.1-.1,0-.1.1-.1c6.7,0,12.1-5.4,12.1-12.1s0-.1.1-.1Z"/>
+    <path class="st15" d="M2011,825c0,0,.1,0,.1.1v12.3c0,0,0,.1-.1.1s-.1,0-.1-.1v-12.3c0,0,0-.1.1-.1Z"/>
+    <path class="st15" d="M1998.7,825c0,0,.1,0,.1.1,0,6.7,5.4,12.1,12.1,12.1s.1,0,.1.1,0,.1-.1.1c-6.8,0-12.4-5.5-12.4-12.4s0-.1.1-.1Z"/>
+  </g>
+  <polyline class="st3" points="2036 848.5 2024.6 859.8 2011.1 859.8"/>
+  <polyline class="st3" points="1985.3 860.5 1970.8 860.5 1959 848.6"/>
+  <polyline class="st3" points="1984.2 824.5 1982.5 824.5 1952.8 854.1 1933.3 873.7 1916.6 873.7"/>
+  <line class="st3" x1="2251.5" y1="1269.1" x2="2127" y2="1269.1"/>
+  <polyline class="st3" points="2127.2 1364.9 2256.2 1364.9 2256.2 1361.9"/>
+  <line class="st3" x1="2256.2" y1="1413.7" x2="2256.2" y2="1364.9"/>
+  <polyline class="st3" points="2201.5 1365.2 2201.5 1413.7 2242.1 1413.7"/>
+  <line class="st3" x1="2126.7" y1="1413.7" x2="2188.5" y2="1413.7"/>
+  <line class="st3" x1="2239.5" y1="1311.2" x2="2239.5" y2="1323"/>
+  <g>
+    <rect class="st7" x="2246.1" y="1293.1" width=".8" height="12.4" transform="translate(3545.8 -947.2) rotate(90)"/>
+    <path class="st1" d="M2240.3,1311.1c1.3,0,2.6-.3,3.9-.7,4.7-1.6,8.1-6.1,8.5-11.1"/>
+  </g>
+  <polyline class="st3" points="2251.6 1148.2 2251.6 1140.8 2239.5 1140.8"/>
+  <polyline class="st3" points="2251.6 1160.6 2251.6 1168.6 2239.4 1168.6"/>
+  <line class="st3" x1="2175.3" y1="1414.4" x2="2175.3" y2="1463.9"/>
+  <line class="st3" x1="2175.3" y1="1477" x2="2126.5" y2="1477"/>
+  <line class="st3" x1="2378.5" y1="1347.4" x2="2378.5" y2="1398.7"/>
+  <polyline class="st8" points="2427.1 1481.9 2427.1 1432.8 2393.7 1432.8"/>
+  <polyline class="st3" points="2320 1432.4 2290.1 1432.4 2290.1 1482.4 2427.3 1482.4 2428.4 1482.4"/>
+  <polyline class="st3" points="2335.5 1482.4 2335.5 1432.4 2364.1 1432.4"/>
+  <line class="st3" x1="2378.9" y1="1483.4" x2="2378.9" y2="1432.1"/>
+  <line class="st3" x1="2806.6" y1="1701.8" x2="2862.6" y2="1701.8"/>
+  <polyline class="st3" points="2807 1716.5 2807 1751.2 2862.4 1751.2"/>
+  <polyline class="st3" points="2807 1763.1 2807 1797.8 2862.4 1797.8"/>
+  <line class="st3" x1="2807" y1="1832" x2="2807" y2="1797.8"/>
+  <line class="st3" x1="2806.4" y1="1846.5" x2="2862.3" y2="1846.5"/>
+  <line class="st3" x1="2807.8" y1="1909.5" x2="2807.8" y2="1965.6"/>
+  <polyline class="st3" points="2807.6 1860.4 2807.6 1894.4 2862.9 1894.4"/>
+  <g>
+    <text class="st13" transform="translate(2783.1 1559.4)"><tspan x="0" y="0">23UC55</tspan></text>
+    <text class="st13" transform="translate(2783.2 1588.3)"><tspan x="0" y="0">23UC56</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2816.2 1559.4)"><tspan x="0" y="0">23UC71</tspan></text>
+      <text class="st13" transform="translate(2816.2 1588.3)"><tspan x="0" y="0">23UC72</tspan></text>
+      <text class="st13" transform="translate(2816.2 1617.3)"><tspan x="0" y="0">23UC73</tspan></text>
+      <polyline class="st4" points="2810.1 1687.1 2810.1 1542.5 2810.1 1542.1"/>
+      <line class="st4" x1="2830.6" y1="1542.4" x2="2810.1" y2="1542.4"/>
+      <line class="st4" x1="2843.1" y1="1571.7" x2="2843.1" y2="1542.3"/>
+      <g>
+        <line class="st4" x1="2843.5" y1="1571.4" x2="2809.7" y2="1571.4"/>
+        <line class="st4" x1="2843.1" y1="1600.6" x2="2843.1" y2="1583.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1600.3" x2="2809.7" y2="1600.3"/>
+        <line class="st4" x1="2843.1" y1="1629.6" x2="2843.1" y2="1612.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2843.5" y1="1658.2" x2="2809.7" y2="1658.2"/>
+        <line class="st4" x1="2843.1" y1="1641" x2="2843.1" y2="1658.5"/>
+      </g>
+      <line class="st4" x1="2842.8" y1="1629.2" x2="2809.7" y2="1629.2"/>
+      <g>
+        <line class="st4" x1="2843.3" y1="1687.3" x2="2809.5" y2="1687.3"/>
+        <line class="st4" x1="2843" y1="1670" x2="2843" y2="1687.5"/>
+      </g>
+    </g>
+    <g>
+      <polyline class="st4" points="2810.2 1658.5 2810.2 1542.5 2810.2 1542.1"/>
+      <line class="st4" x1="2777.2" y1="1542.4" x2="2810.5" y2="1542.4"/>
+      <line class="st4" x1="2777.1" y1="1571.4" x2="2777.1" y2="1554.9"/>
+      <g>
+        <line class="st4" x1="2776.8" y1="1571.4" x2="2810.5" y2="1571.4"/>
+        <line class="st4" x1="2777.1" y1="1600.6" x2="2777.1" y2="1583.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1600.3" x2="2810.5" y2="1600.3"/>
+        <line class="st4" x1="2777.1" y1="1629.6" x2="2777.1" y2="1612.1"/>
+      </g>
+      <g>
+        <line class="st4" x1="2776.8" y1="1658.2" x2="2810.5" y2="1658.2"/>
+        <line class="st4" x1="2777.1" y1="1641" x2="2777.1" y2="1658.5"/>
+      </g>
+      <line class="st4" x1="2777.4" y1="1629.2" x2="2810.5" y2="1629.2"/>
+      <g>
+        <line class="st4" x1="2776.7" y1="1687.4" x2="2810.5" y2="1687.4"/>
+        <line class="st4" x1="2777.1" y1="1670.2" x2="2777.1" y2="1687.7"/>
+      </g>
+    </g>
+    <text class="st13" transform="translate(2783.3 1617.4)"><tspan x="0" y="0">23UC57</tspan></text>
+    <text class="st13" transform="translate(2783.2 1646.3)"><tspan x="0" y="0">23UC58</tspan></text>
+    <text class="st13" transform="translate(2816.2 1646.3)"><tspan x="0" y="0">23UC74</tspan></text>
+    <text class="st13" transform="translate(2782.7 1673.9)"><tspan x="0" y="0">23UC59</tspan></text>
+    <text class="st13" transform="translate(2816 1674.9)"><tspan x="0" y="0">23UC75</tspan></text>
+  </g>
+  <line class="st3" x1="2177.3" y1="1077.4" x2="2177.3" y2="1081.6"/>
+  <line class="st3" x1="2177.5" y1="1093.5" x2="2177.5" y2="1140.5"/>
+  <line class="st3" x1="2305.6" y1="899.1" x2="2305.6" y2="1062.8"/>
+  <polyline class="st3" points="2862.3 1124.8 2775.9 1124.8 2775.9 1175.8 2841.5 1175.8"/>
+  <line class="st3" x1="2853.7" y1="1175.6" x2="2862.7" y2="1175.6"/>
+  <line class="st3" x1="2749.8" y1="1128.1" x2="2775.8" y2="1128.1"/>
+  <polyline class="st3" points="2737.7 1128.2 2733.5 1128.2 2733.5 1170.2 2775.3 1170.2"/>
+  <polyline class="st3" points="2699.1 1131.9 2664.1 1131.9 2664.1 1170.1 2714.4 1170.1 2714.4 1132 2711.6 1132"/>
+  <polyline class="st3" points="2648.7 1131.9 2613.7 1131.9 2613.7 1170.1 2664.1 1170.1 2664.1 1132 2661.3 1132"/>
+  <polyline class="st3" points="2599 1131.9 2565.4 1131.9 2565.4 1170.1 2613.8 1170.1 2613.8 1132 2611.1 1132"/>
+  <polyline class="st3" points="2662.4 1111.8 2695.6 1111.8 2695.6 1069.5 2647.8 1069.5 2647.8 1111.6 2650.4 1111.6"/>
+  <polyline class="st3" points="2611.8 1111.9 2647.8 1111.9 2647.8 1069.6 2596 1069.6 2596 1111.8 2598.8 1111.8"/>
+  <polyline class="st3" points="2561.1 1111.9 2596 1111.9 2596 1069.6 2545.7 1069.6 2545.7 1111.8 2548.5 1111.8"/>
+  <polyline class="st3" points="2530.6 1111.9 2495.6 1111.9 2495.6 1069.6 2545.9 1069.6 2545.9 1111.8 2543.1 1111.8"/>
+  <polyline class="st3" points="2471 1083.6 2471 1116.2 2423.1 1116.2 2423.1 1069.3 2470.9 1069.3 2470.9 1072"/>
+  <line class="st3" x1="2596" y1="1110.3" x2="2596" y2="1132.7"/>
+  <polyline class="st3" points="2456.3 1159.8 2423 1159.8 2423 1116 2470.9 1116 2470.9 1159.6 2468.3 1159.6"/>
+  <polyline class="st3" points="2308.1 1154.7 2308.1 1159.8 2359.1 1159.8 2359.1 1069.5 2307.9 1069.5 2307.9 1132.2"/>
+  <polyline class="st3" points="2419.5 1159.4 2423 1159.4 2423 1069.9 2359.1 1069.9 2359.1 1159.8 2403.5 1159.8 2408.3 1159.8"/>
+  <text class="st13" transform="translate(2322.6 1093.4)"><tspan x="0" y="0">23UR6B</tspan></text>
+  <text class="st13" transform="translate(2322.6 1124.9)"><tspan x="0" y="0">23UR6A</tspan></text>
+  <text class="st13" transform="translate(2381.6 1119.2)"><tspan x="0" y="0">23UR7</tspan></text>
+  <text class="st13" transform="translate(2438.3 1106.4)"><tspan x="0" y="0">23UR9</tspan></text>
+  <text class="st13" transform="translate(2438.1 1142.3)"><tspan x="0" y="0">23UR8</tspan></text>
+  <text class="st13" transform="translate(2510.6 1090.9)"><tspan x="0" y="0">23UP13</tspan></text>
+  <text class="st13" transform="translate(2560.4 1090.9)"><tspan x="0" y="0">23UP14</tspan></text>
+  <text class="st13" transform="translate(2611.3 1090.9)"><tspan x="0" y="0">23UP19</tspan></text>
+  <text class="st13" transform="translate(2661.3 1090.9)"><tspan x="0" y="0">23UP20</tspan></text>
+  <text class="st13" transform="translate(2579.2 1154.4)"><tspan x="0" y="0">23UP18</tspan></text>
+  <text class="st13" transform="translate(2628.6 1154.4)"><tspan x="0" y="0">23UP25</tspan></text>
+  <text class="st13" transform="translate(2678.8 1154.4)"><tspan x="0" y="0">23UP26</tspan></text>
+  <text class="st13" transform="translate(2754.4 1092.4)"><tspan x="0" y="0">23UC301</tspan></text>
+  <text class="st13" transform="translate(2779.5 1092.4)"><tspan x="0" y="0">23UC302</tspan></text>
+  <text class="st13" transform="translate(2804.4 1092.4)"><tspan x="0" y="0">23UC303</tspan></text>
+  <text class="st13" transform="translate(2832.6 1092.4)"><tspan x="0" y="0">23UC304</tspan></text>
+  <text class="st13" transform="translate(2744.5 1153.4)"><tspan x="0" y="0">23UP27</tspan></text>
+  <text class="st9" transform="translate(2809.2 1151.1)"><tspan class="st16"><tspan x="0" y="0">23UR33</tspan></tspan><tspan class="st14"><tspan x="2.3" y="5">CR-33</tspan></tspan></text>
+  <text class="st12" transform="translate(2347.6 1276)"><tspan x="0" y="0">BATHROOMS</tspan></text>
+  <polyline class="st3" points="2447.3 1195.9 2444 1195.9 2444 1249 2564 1249 2564 1195.5 2539 1195.5"/>
+  <line class="st3" x1="2459.5" y1="1195.7" x2="2509.4" y2="1195.7"/>
+  <line class="st3" x1="2521.2" y1="1195.7" x2="2527.2" y2="1195.7"/>
+  <line class="st3" x1="2484" y1="1196" x2="2484" y2="1248.8"/>
+  <line class="st3" x1="2524" y1="1195.7" x2="2524" y2="1248.5"/>
+  <line class="st3" x1="2599.2" y1="1195.5" x2="2551.1" y2="1195.5"/>
+  <line class="st3" x1="2664.8" y1="1195.5" x2="2611" y2="1195.5"/>
+  <line class="st3" x1="2664.2" y1="1249.2" x2="2613.7" y2="1249.2"/>
+  <line class="st3" x1="2614.5" y1="1324.3" x2="2472.1" y2="1324.3"/>
+  <line class="st3" x1="2447.8" y1="1324.3" x2="2426.1" y2="1324.3"/>
+  <line class="st3" x1="2613.7" y1="1430.6" x2="2426.6" y2="1430.6"/>
+  <line class="st3" x1="2664.8" y1="1301.7" x2="2614.3" y2="1301.7"/>
+  <line class="st3" x1="2664.8" y1="1354.7" x2="2614.3" y2="1354.7"/>
+  <line class="st3" x1="2664.5" y1="1407.7" x2="2614" y2="1407.7"/>
+  <line class="st3" x1="2663.8" y1="1235" x2="2663.8" y2="1195.4"/>
+  <line class="st3" x1="2614.4" y1="1583.1" x2="2614.4" y2="1196.1"/>
+  <line class="st3" x1="2663.8" y1="1288.1" x2="2663.8" y2="1247.1"/>
+  <line class="st3" x1="2663.8" y1="1394.2" x2="2663.8" y2="1315.1"/>
+  <line class="st3" x1="2663.8" y1="1500.2" x2="2663.8" y2="1421"/>
+  <line class="st3" x1="2664" y1="1460.6" x2="2613.5" y2="1460.6"/>
+  <line class="st3" x1="2664.8" y1="1513.8" x2="2614.3" y2="1513.8"/>
+  <line class="st3" x1="2664.3" y1="1582.8" x2="2664.3" y2="1527.2"/>
+  <line class="st3" x1="2664.7" y1="1581.8" x2="2614.1" y2="1581.8"/>
+  <line class="st3" x1="2564" y1="1324.8" x2="2564" y2="1248.7"/>
+  <g>
+    <rect class="st7" x="2471.4" y="1311.4" width=".8" height="12.4" transform="translate(4943.6 2635.1) rotate(180)"/>
+    <path class="st1" d="M2471.8,1311.4c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2447.9" y="1311.4" width=".8" height="12.4"/>
+    <path class="st1" d="M2448.3,1311.4c4.9.4,9.5,3.8,11.1,8.5.4,1.2.6,2.5.7,3.9"/>
+  </g>
+  <g>
+    <g>
+      <rect class="st7" x="2419.9" y="1397.2" width=".8" height="12.4" transform="translate(3823.6 -1016.9) rotate(90)"/>
+      <path class="st1" d="M2414.1,1403.4c.4,4.9,3.8,9.5,8.5,11.1,1.2.4,2.5.6,3.9.7"/>
+    </g>
+    <g>
+      <rect class="st7" x="2419.9" y="1420.7" width=".8" height="12.4" transform="translate(993.4 3847.2) rotate(-90)"/>
+      <path class="st1" d="M2414.1,1426.9c.4-4.9,3.8-9.5,8.5-11.1,1.2-.4,2.5-.6,3.9-.7"/>
+    </g>
+  </g>
+  <line class="st3" x1="2426" y1="1397.9" x2="2426" y2="1402.9"/>
+  <line class="st3" x1="2426" y1="1427.2" x2="2426" y2="1432.2"/>
+  <g>
+    <rect class="st7" x="2375.2" y="1384.9" width=".8" height="12.4" transform="translate(4751.2 2782.1) rotate(180)"/>
+    <path class="st1" d="M2375.6,1384.9c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2331.2" y="1385" width=".8" height="12.4" transform="translate(4663.2 2782.3) rotate(180)"/>
+    <path class="st1" d="M2331.6,1385c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2331.4" y="1433.7" width=".8" height="12.4" transform="translate(4663.6 2879.8) rotate(180)"/>
+    <path class="st1" d="M2331.8,1446.1c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2375.2" y="1433.7" width=".8" height="12.4" transform="translate(4751.2 2879.7) rotate(180)"/>
+    <path class="st1" d="M2375.6,1446c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2381.6" y="1385" width=".8" height="12.4"/>
+    <path class="st1" d="M2382,1385c4.9.4,9.5,3.8,11.1,8.5.4,1.2.6,2.5.7,3.9"/>
+  </g>
+  <line class="st3" x1="2381.7" y1="1398.3" x2="2376" y2="1398.3"/>
+  <line class="st3" x1="2337.8" y1="1432.5" x2="2332.1" y2="1432.5"/>
+  <line class="st3" x1="2381.6" y1="1432.8" x2="2375.9" y2="1432.8"/>
+  <line class="st3" x1="2337.8" y1="1397.9" x2="2332.1" y2="1397.9"/>
+  <g>
+    <rect class="st7" x="2381.7" y="1433.6" width=".8" height="12.4"/>
+    <path class="st1" d="M2382.1,1445.9c4.9-.4,9.5-3.8,11.1-8.5.4-1.2.6-2.5.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2254" y="1400.6" width=".8" height="12.4" transform="translate(4508.7 2813.6) rotate(180)"/>
+    <path class="st1" d="M2254.4,1400.6c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2199.5" y="1400.6" width=".8" height="12.4" transform="translate(4399.7 2813.6) rotate(180)"/>
+    <path class="st1" d="M2199.9,1400.6c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2168.7" y="1469.3" width=".8" height="12.4" transform="translate(693.6 3644.5) rotate(-90)"/>
+    <path class="st1" d="M2162.9,1475.5c.4-4.9,3.8-9.5,8.5-11.1,1.2-.4,2.5-.6,3.9-.7"/>
+  </g>
+  <rect class="st2" x="2177.9" y="1098.8" width="49.4" height="12.7"/>
+  <rect class="st15" x="2220" y="1104.7" width="22.1" height="12.7" transform="translate(1383.2 -1232.7) rotate(43.6)"/>
+  <polyline class="st3" points="2257.5 1075.9 2251.6 1075.9 2229.3 1053.6 2235.8 1047.1 2223.1 1034.5"/>
+  <line class="st3" x1="2289.7" y1="1075.9" x2="2307.4" y2="1075.9"/>
+  <text class="st10" transform="translate(2234.6 963.1)"><tspan x="0" y="0">BATHROOMS</tspan></text>
+  <text class="st11" transform="translate(2396.3 979.3)"><tspan x="0" y="0">AUDITORIUM</tspan></text>
+  <g>
+    <rect class="st7" x="2447.4" y="1197" width=".8" height="12.4"/>
+    <path class="st1" d="M2447.8,1209.3c4.9-.4,9.5-3.8,11.1-8.5.4-1.2.6-2.5.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2526.6" y="1196.5" width=".8" height="12.4"/>
+    <path class="st1" d="M2527,1208.9c4.9-.4,9.5-3.8,11.1-8.5.4-1.2.6-2.5.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2520.5" y="1196.2" width=".8" height="12.4" transform="translate(5041.9 2404.8) rotate(180)"/>
+    <path class="st1" d="M2520.9,1208.6c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2610.5" y="1196.4" width=".8" height="12.4" transform="translate(5221.8 2405.1) rotate(180)"/>
+    <path class="st1" d="M2610.9,1208.7c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2656.5" y="1240.7" width=".8" height="12.4" transform="translate(1410 3903.7) rotate(-90)"/>
+    <path class="st1" d="M2650.7,1246.9c.4-4.9,3.8-9.5,8.5-11.1,1.2-.4,2.5-.6,3.9-.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2657" y="1293.8" width=".8" height="12.4" transform="translate(1357.4 3957.3) rotate(-90)"/>
+    <path class="st1" d="M2651.2,1299.9c.4-4.9,3.8-9.5,8.5-11.1,1.2-.4,2.5-.6,3.9-.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2657" y="1297.1" width=".8" height="12.4" transform="translate(3960.7 -1354) rotate(90)"/>
+    <path class="st1" d="M2651.2,1303.3c.4,4.9,3.8,9.5,8.5,11.1,1.2.4,2.5.6,3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2657.1" y="1399.8" width=".8" height="12.4" transform="translate(1251.5 4063.5) rotate(-90)"/>
+    <path class="st1" d="M2651.3,1406c.4-4.9,3.8-9.5,8.5-11.1,1.2-.4,2.5-.6,3.9-.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2657.1" y="1403.2" width=".8" height="12.4" transform="translate(4066.9 -1248.1) rotate(90)"/>
+    <path class="st1" d="M2651.3,1409.4c.4,4.9,3.8,9.5,8.5,11.1,1.2.4,2.5.6,3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2657.3" y="1505.8" width=".8" height="12.4" transform="translate(1145.7 4169.6) rotate(-90)"/>
+    <path class="st1" d="M2651.5,1512c.4-4.9,3.8-9.5,8.5-11.1,1.2-.4,2.5-.6,3.9-.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2657.3" y="1509.2" width=".8" height="12.4" transform="translate(4173 -1142.3) rotate(90)"/>
+    <path class="st1" d="M2651.5,1515.4c.4,4.9,3.8,9.5,8.5,11.1,1.2.4,2.5.6,3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2548.9" y="1098.5" width=".8" height="12.4"/>
+    <path class="st1" d="M2549.3,1098.5c4.9.4,9.5,3.8,11.1,8.5.4,1.2.6,2.5.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2598.6" y="1098.5" width=".8" height="12.4"/>
+    <path class="st1" d="M2599,1098.5c4.9.4,9.5,3.8,11.1,8.5.4,1.2.6,2.5.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2650.2" y="1099" width=".8" height="12.4"/>
+    <path class="st1" d="M2650.6,1099c4.9.4,9.5,3.8,11.1,8.5.4,1.2.6,2.5.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2711" y="1133" width=".8" height="12.4" transform="translate(5422.7 2278.3) rotate(180)"/>
+    <path class="st1" d="M2711.4,1145.3c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2661.1" y="1132.7" width=".8" height="12.4" transform="translate(5322.9 2277.8) rotate(180)"/>
+    <path class="st1" d="M2661.5,1145.1c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2610.7" y="1133" width=".8" height="12.4" transform="translate(5222.2 2278.3) rotate(180)"/>
+    <path class="st1" d="M2611.1,1145.3c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2542.5" y="1098.5" width=".8" height="12.4" transform="translate(5085.8 2209.3) rotate(180)"/>
+    <path class="st1" d="M2542.9,1098.5c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <polyline class="st3" points="2493.9 1140.3 2493.9 1170 2565.4 1170"/>
+  <g>
+    <rect class="st7" x="2467.4" y="1146.5" width=".8" height="12.4" transform="translate(4935.6 2305.3) rotate(180)"/>
+    <path class="st1" d="M2467.8,1146.5c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2419.7" y="1146.5" width=".8" height="12.4" transform="translate(4840.1 2305.3) rotate(180)"/>
+    <path class="st1" d="M2420.1,1146.5c-4.9.4-9.5,3.8-11.1,8.5-.4,1.2-.6,2.5-.7,3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2463.9" y="1066.4" width=".8" height="12.4" transform="translate(3536.8 -1391.7) rotate(90)"/>
+    <path class="st1" d="M2458.1,1072.6c.4,4.9,3.8,9.5,8.5,11.1,1.2.4,2.5.6,3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2314.8" y="1148.1" width=".8" height="12.4" transform="translate(1160.9 3469.4) rotate(-90)"/>
+    <path class="st1" d="M2321.3,1154.3c-.4-4.9-3.8-9.5-8.5-11.1-1.2-.4-2.5-.6-3.9-.7"/>
+  </g>
+  <line class="st3" x1="2307.9" y1="1132.2" x2="2307.9" y2="1142.4"/>
+  <text class="st13" transform="translate(2823.4 1776.4)"><tspan x="0" y="0">23UP21</tspan></text>
+  <text class="st13" transform="translate(2823.2 1728.1)"><tspan x="0" y="0">23UR19</tspan></text>
+  <text class="st13" transform="translate(2823.5 1824.4)"><tspan x="0" y="0">23UP22</tspan></text>
+  <text class="st13" transform="translate(2823.5 1872.6)"><tspan x="0" y="0">23UP23</tspan></text>
+  <text class="st13" transform="translate(2823.5 1930.7)"><tspan x="0" y="0">23UP24</tspan></text>
+  <g>
+    <rect class="st7" x="2813.9" y="1698.1" width=".8" height="12.4" transform="translate(4518.6 -1110) rotate(90)"/>
+    <path class="st1" d="M2820.5,1704.3c-.4,4.9-3.8,9.5-8.5,11.1-1.2.4-2.5.6-3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2813.7" y="1746.5" width=".8" height="12.4" transform="translate(4566.8 -1061.5) rotate(90)"/>
+    <path class="st1" d="M2820.3,1752.7c-.4,4.9-3.8,9.5-8.5,11.1-1.2.4-2.5.6-3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2814.3" y="1842.6" width=".8" height="12.4" transform="translate(4663.5 -965.9) rotate(90)"/>
+    <path class="st1" d="M2820.9,1848.8c-.4,4.9-3.8,9.5-8.5,11.1-1.2.4-2.5.6-3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2814.3" y="1891.4" width=".8" height="12.4" transform="translate(4712.3 -917.1) rotate(90)"/>
+    <path class="st1" d="M2820.9,1897.6c-.4,4.9-3.8,9.5-8.5,11.1-1.2.4-2.5.6-3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2814.3" y="1837.4" width=".8" height="12.4" transform="translate(971.1 4658.3) rotate(-90)"/>
+    <path class="st1" d="M2820.9,1843.6c-.4-4.9-3.8-9.5-8.5-11.1-1.2-.4-2.5-.6-3.9-.7"/>
+  </g>
+  <line class="st3" x1="2807.1" y1="1703.9" x2="2807.1" y2="1700.8"/>
+  <line class="st3" x1="2807.4" y1="1848.4" x2="2807.4" y2="1844"/>
+  <line class="st3" x1="2807.6" y1="1897.2" x2="2807.6" y2="1894.1"/>
+  <text class="st13" transform="translate(2295.1 1610.7)"><tspan x="0" y="0">23UC159</tspan></text>
+  <text class="st13" transform="translate(2330.6 1610.7)"><tspan x="0" y="0">23UC158</tspan></text>
+  <text class="st13" transform="translate(2365.5 1610.7)"><tspan x="0" y="0">23UC157</tspan></text>
+  <text class="st13" transform="translate(2400.4 1610.7)"><tspan x="0" y="0">23UC156</tspan></text>
+  <text class="st13" transform="translate(2435.1 1610.7)"><tspan x="0" y="0">23UC155</tspan></text>
+  <text class="st13" transform="translate(2469.7 1610.7)"><tspan x="0" y="0">23UC154</tspan></text>
+  <line class="st3" x1="2475.6" y1="1411.7" x2="2475.6" y2="1324.8"/>
+  <line class="st3" x1="2475.4" y1="1429.8" x2="2475.4" y2="1428"/>
+  <g>
+    <rect class="st7" x="2483.8" y="1419.4" width="1" height="16.2" transform="translate(1056.9 3911.8) rotate(-90)"/>
+    <path class="st1" d="M2492.4,1427.5c-.5-6.4-5-12.4-11.2-14.5-1.6-.5-3.3-.8-5.1-.9"/>
+  </g>
+  <text class="st13" transform="translate(2455.3 1223.8)"><tspan x="0" y="0">23UP2</tspan></text>
+  <text class="st13" transform="translate(2495.3 1223.8)"><tspan x="0" y="0">23UP3</tspan></text>
+  <text class="st13" transform="translate(2535.2 1223.8)"><tspan x="0" y="0">23UP4</tspan></text>
+  <text class="st13" transform="translate(2579.5 1265)"><tspan x="0" y="0">23UR15</tspan></text>
+  <text class="st13" transform="translate(2630.3 1224)"><tspan x="0" y="0">23UP6</tspan></text>
+  <text class="st13" transform="translate(2630.4 1277.2)"><tspan x="0" y="0">23UP7</tspan></text>
+  <text class="st13" transform="translate(2630.4 1330.3)"><tspan x="0" y="0">23UP8</tspan></text>
+  <text class="st13" transform="translate(2630.4 1383.3)"><tspan x="0" y="0">23UP9</tspan></text>
+  <text class="st13" transform="translate(2628.7 1436.5)"><tspan x="0" y="0">23UP10</tspan></text>
+  <text class="st13" transform="translate(2628.8 1489.3)"><tspan x="0" y="0">23UP11</tspan></text>
+  <g>
+    <text class="st13" transform="translate(2696.1 1362.6)"><tspan x="0" y="0">23UC24</tspan></text>
+    <text class="st13" transform="translate(2696.2 1391.6)"><tspan x="0" y="0">23UC25</tspan></text>
+    <g>
+      <text class="st13" transform="translate(2729.2 1362.6)"><tspan x="0" y="0">23UC36</tspan></text>
+      <text class="st13" transform="translate(2729.2 1391.6)"><tspan x="0" y="0">23UC37</tspan></text>
+      <text class="st13" transform="translate(2729.2 1420.5)"><tspan x="0" y="0">23UC38</tspan></text>
+      <polyline class="st4" points="2723 1461.7 2723 1345.7 2723 1345.4"/>
+      <line class="st4" x1="2756.5" y1="1345.7" x2="2735.7" y2="1345.7"/>
+      <line class="st4" x1="2756.1" y1="1374.9" x2="2756.1" y2="1345.6"/>
+      <g>
+        <line class="st4" x1="2756.5" y1="1374.6" x2="2722.7" y2="1374.6"/>
+        <line class="st4" x1="2756.1" y1="1403.9" x2="2756.1" y2="1386.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2756.5" y1="1403.5" x2="2722.7" y2="1403.5"/>
+        <line class="st4" x1="2756.1" y1="1432.8" x2="2756.1" y2="1415.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2756.5" y1="1461.5" x2="2722.7" y2="1461.5"/>
+        <line class="st4" x1="2756.1" y1="1444.2" x2="2756.1" y2="1461.7"/>
+      </g>
+      <line class="st4" x1="2755.8" y1="1432.5" x2="2722.7" y2="1432.5"/>
+    </g>
+    <g>
+      <polyline class="st4" points="2723.2 1461.7 2723.2 1345.7 2723.2 1345.4"/>
+      <line class="st4" x1="2702.5" y1="1345.7" x2="2723.5" y2="1345.7"/>
+      <line class="st4" x1="2690.1" y1="1374.6" x2="2690.1" y2="1345.4"/>
+      <g>
+        <line class="st4" x1="2689.7" y1="1374.6" x2="2723.5" y2="1374.6"/>
+        <line class="st4" x1="2690.1" y1="1403.9" x2="2690.1" y2="1386.4"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.7" y1="1403.5" x2="2723.5" y2="1403.5"/>
+        <line class="st4" x1="2690.1" y1="1432.8" x2="2690.1" y2="1415.3"/>
+      </g>
+      <g>
+        <line class="st4" x1="2689.7" y1="1461.5" x2="2723.5" y2="1461.5"/>
+        <line class="st4" x1="2690.1" y1="1444.2" x2="2690.1" y2="1461.7"/>
+      </g>
+      <line class="st4" x1="2690.4" y1="1432.5" x2="2723.5" y2="1432.5"/>
+    </g>
+    <text class="st13" transform="translate(2696.3 1420.7)"><tspan x="0" y="0">23UC26</tspan></text>
+    <text class="st13" transform="translate(2696.2 1449.5)"><tspan x="0" y="0">23UC27</tspan></text>
+    <text class="st13" transform="translate(2729.2 1449.5)"><tspan x="0" y="0">23UC39</tspan></text>
+  </g>
+  <g>
+    <rect class="st7" x="2737.8" y="1129" width=".8" height="12.4"/>
+    <path class="st1" d="M2738.2,1141.4c4.9-.4,9.5-3.8,11.1-8.5.4-1.2.6-2.5.7-3.9"/>
+  </g>
+  <g>
+    <rect class="st7" x="2853.3" y="1176.7" width=".8" height="12.4" transform="translate(5707.3 2365.7) rotate(180)"/>
+    <path class="st1" d="M2853.6,1189c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+  </g>
+  <polyline class="st3" points="2292.5 1531.5 2289.6 1531.5 2289.6 1591.4 2427.2 1591.4 2427.2 1532.1 2322.3 1532.1 2322.3 1531.2 2304.9 1531.2"/>
+  <line class="st3" x1="2321.5" y1="1485.2" x2="2321.5" y2="1483.4"/>
+  <line class="st3" x1="2321.8" y1="1531.1" x2="2321.8" y2="1497.6"/>
+  <text class="st12" transform="translate(2352.2 1510.1)"><tspan x="0" y="0">PRINT SHOP</tspan></text>
+  <text class="st12" transform="translate(2332.3 1566.7)"><tspan x="0" y="0">BREAK ROOM</tspan></text>
+  <g>
+    <rect class="st7" x="2314.3" y="1479.6" width=".8" height="12.4" transform="translate(3800.5 -828.9) rotate(90)"/>
+    <path class="st1" d="M2308.5,1485.8c.4,4.9,3.8,9.5,8.5,11.1,1.2.4,2.5.6,3.9.7"/>
+  </g>
+  <g>
+    <rect class="st7" x="2292.9" y="1532.2" width=".8" height="12.4"/>
+    <path class="st1" d="M2293.3,1544.6c4.9-.4,9.5-3.8,11.1-8.5.4-1.2.6-2.5.7-3.9"/>
+  </g>
+  <g>
+    <g>
+      <rect class="st7" x="2378.1" y="1207" width=".8" height="12.4"/>
+      <path class="st1" d="M2378.5,1219.4c4.9-.4,9.5-3.8,11.1-8.5.4-1.2.6-2.5.7-3.9"/>
+    </g>
+    <g>
+      <rect class="st7" x="2401.6" y="1207" width=".8" height="12.4" transform="translate(4804 2426.4) rotate(-180)"/>
+      <path class="st1" d="M2402,1219.4c-4.9-.4-9.5-3.8-11.1-8.5-.4-1.2-.6-2.5-.7-3.9"/>
+    </g>
+  </g>
+  <text class="st9" transform="translate(2284.8 1105.3)"><tspan class="st16"><tspan x="0" y="0">23UR30</tspan></tspan><tspan class="st14"><tspan x="2.3" y="5">CR-30</tspan></tspan></text>
+  <circle class="st17" cx="2239.7" cy="1064.6" r="16.8"/>
+  <path class="st3" d="M2253.2,1062"/>
+  <path class="st3" d="M2226.3,1067.3"/>
+  <g>
+    <line class="st17" x1="2242.1" y1="1076.6" x2="2237.3" y2="1052.4"/>
+    <rect class="st6" x="2238.8" y="1052.1" width="1.8" height="24.7" transform="translate(-163.4 452.4) rotate(-11.1)"/>
+  </g>
+  <circle class="st0" cx="2239.7" cy="1064.6" r="15"/>
+  <g>
+    <g>
+      <rect class="st7" x="2288.8" y="1058.7" width="1" height="16.4" transform="translate(4578.6 2133.7) rotate(180)"/>
+      <path class="st1" d="M2289.3,1058.7c-6.5.6-12.6,5-14.7,11.3-.6,1.7-.8,3.4-.9,5.1"/>
+    </g>
+    <g>
+      <rect class="st7" x="2257.6" y="1058.7" width="1" height="16.4"/>
+      <path class="st1" d="M2258.1,1058.7c6.5.6,12.6,5,14.7,11.3.6,1.7.8,3.4.9,5.1"/>
+    </g>
+  </g>
+  <g>
+    <line class="st17" x1="2227.6" y1="1066.9" x2="2251.8" y2="1062.1"/>
+    <rect class="st6" x="2227.4" y="1063.6" width="24.7" height="1.8" transform="translate(-163.4 452.4) rotate(-11.1)"/>
+  </g>
+  <text class="st13" transform="translate(2302.2 1375.2)"><tspan x="0" y="0">23UP34</tspan></text>
+  <text class="st13" transform="translate(2346.5 1375.2)"><tspan x="0" y="0">23UP35</tspan></text>
+  <text class="st13" transform="translate(2392.4 1375.2)"><tspan x="0" y="0">23UP36</tspan></text>
+  <text class="st13" transform="translate(2392.6 1460)"><tspan x="0" y="0">23UP37</tspan></text>
+  <text class="st13" transform="translate(2346.1 1460)"><tspan x="0" y="0">23UP38</tspan></text>
+  <text class="st13" transform="translate(2301.9 1460)"><tspan x="0" y="0">23UR25</tspan></text>
+  <text class="st11" transform="translate(2162.8 324.4)"><tspan x="0" y="0">PARK VIEW</tspan><tspan x="-3.5" y="8">AUDITORIUM</tspan></text>
+  <text class="st11" transform="translate(2256.5 687.1)"><tspan x="0" y="0">CAFETERIA/</tspan><tspan x="9.2" y="8">DINING</tspan><tspan x="13.7" y="16">AREA</tspan></text>
+  <rect class="st5" x="2291.3" y="1266.4" width="125.5" height="93.1" rx="12" ry="12"/>
+</svg>

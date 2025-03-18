@@ -1,0 +1,771 @@
+{
+    "settings":{
+       "title":"CubeSpy 2.0",
+       "hoverTooltip":true,
+       "deeplinking":true,
+       "sidebar":true,
+       "rightSidebar":false,
+       "toggleSidebar":true,
+       "thumbnails":false,
+       "sidebarClosed":false,
+       "ordered":true,
+       "orderBy":"title",
+       "portrait":480,
+       "maxZoom":4,
+       "mapWidth":3000,
+       "mapHeight":2000,
+       "filters":true,
+       "filtersOpened":false,
+       "layer":"L3H",
+       "location":null,
+       "css":".mapplic-thumbnail > img {\r\n\tfilter: grayscale(100%);\r\n\topacity: 1.0;\r\n}\r\n\r\n.mapplic-dir-item:hover .mapplic-thumbnail img,\r\n.mapplic-dir-item.mapplic-active .mapplic-thumbnail img {\r\n\tfilter: grayscale(0%);\r\n\topacity: 1;\r\n}\r\n\r\n.mapplic-thumbnail > img {\r\n    object-fit: contain;\r\n}\r\n\r\n.mapplic-popup-image > img {\r\n    object-fit: contain;\r\n    padding: 0px;\r\n    box-sizing: border-box;\r\n}",
+       "primaryColor":"#1476FF",
+       "fullscreen":"bottom-right",
+       "layerSwitcher":"top-right",
+       "resetButton":"bottom-right",
+       "zoomButtons":"bottom-right",
+       "zoom":true,
+       "geo":false,
+       "groupBy":false,
+       "filtersAlwaysVisible":false,
+       "csvEnabled":false,
+       "moreText":"Visit",
+       "mouseWheel":true
+    },
+    "layers":[
+       {
+          "id":"first",
+          "name":"First Floor",
+          "file":"assets/maps/mall-first.svg"
+       },
+       {
+          "id":"ground",
+          "name":"Ground floor",
+          "file":"assets/maps/mall-ground.svg"
+       },
+       {
+          "id":"underground",
+          "name":"Underground",
+          "file":"assets/maps/mall-underground.svg"
+       },
+       {
+          "id":"L3H",
+          "name":"First Floor",
+          "file":"assets/maps/L3H-MAP6.svg"
+       }
+    ],
+    "samples": [
+      {
+         "group":[
+            
+         ],
+         "style":"store",
+         "id":"def",
+         "color":"#333",
+         "hide":false,
+         "sample":"true",
+         "type":"hidden"
+      }
+    ],
+    "locations":[
+       {
+          "group":"TAC #3",
+          "id":"u23UR5",
+          "title":"Serving Station",
+          "color":"#CE0E2D",
+          "zoom":"4.000",
+          "layer":"L3H",
+          "coord":[
+             0.7179,
+             0.5498
+          ],
+          "about":"TAC 3",
+          "style":"anchor"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UR30",
+          "title":"Conference Room 30",
+          "color":"#CE0E2D",
+          "zoom":"4.000",
+          "layer":"L3H",
+          "coord":[
+             0.7279,
+             0.5868
+          ],
+          "about":"TAC 3",
+          "style":"anchor"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UR31",
+          "title":"Conference Room 31",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7279,
+             0.6168
+          ],
+          "about":"TAC 3",
+          "style":"anchor"
+       },
+      {
+          "group":"TAC #3",
+          "id":"u23UR32",
+          "title":"Conference Room 32",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7279,
+             0.6518
+          ],
+          "about":"TAC 3",
+          "style":"anchor"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UR33",
+          "title":"TAC #1 Storage",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7289,
+             0.6758
+          ],
+          "about":"TAC 3",
+          "style":"anchor"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UP31",
+          "title":"John Ehlert",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7219,
+             0.6958
+          ],
+          "about":"TAC 3"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UP32",
+          "title":"Andrew Stoller",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7419,
+             0.6958
+          ],
+          "about":"TAC 3"
+       },  
+       {
+          "group":"TAC #3",
+          "id":"u23UP30",
+          "title":"John Holder",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7169,
+             0.7208
+          ],
+          "about":"TAC 3"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UC206",
+          "title":"Tom Abels",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7439,
+             0.7278
+          ],
+          "about":"TAC 3"
+       },   
+       {
+          "group":"TAC #3",
+          "id":"u23UC205",
+          "title":"Alec Sills",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.7548
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC204",
+          "title":"Orry Gray",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.7548
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC203",
+          "title":"Jacob Amendralo",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.7548
+          ],
+          "about":"TAC 3"
+       },  
+       {
+          "group":"TAC #3",
+          "id":"u23UC202",
+          "title":"Terry Adrian",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.7728
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC201",
+          "title":"Joseph Carnes",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.7728
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC200",
+          "title":"Jonathan Evans",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.7728
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UC199",
+          "title":"Craig Smith",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.7998
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC198",
+          "title":"Ben Couture",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.7998
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC197",
+          "title":"Matthew DiJesus",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.7998
+          ],
+          "about":"TAC 3"
+       },   
+       {
+          "group":"TAC #3",
+          "id":"u23UC196",
+          "title":"Angel Rivera",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.8178
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC195",
+          "title":"Jeff Elston",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.8178
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC194",
+          "title":"Catherine Vincent",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.8178
+          ],
+          "about":"TAC 3"
+       },  
+       {
+          "group":"TAC #3",
+          "id":"u23UC193",
+          "title":"Todd Rubrich",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.8468
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC192",
+          "title":"Jeremy Reinhard",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.8468
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC191",
+          "title":"Timothy Hughes",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.8468
+          ],
+          "about":"TAC 3"
+       },  
+       {
+          "group":"TAC #3",
+          "id":"u23UC190",
+          "title":"Travis Somerlott",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.8645
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC189",
+          "title":"Jacob Haberly",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.8645
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC188",
+          "title":"Ken Johnson",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.8645
+          ],
+          "about":"TAC 3"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UC187",
+          "title":"Temitayo Sodiya",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.8895
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC186",
+          "title":"James Hlavaty",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.8895
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC185",
+          "title":"Andrea Allen",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.8895
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UC184",
+          "title":"Christopher Moran",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.9075
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC183",
+          "title":"Mark Harber",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.9075
+          ],
+          "about":"TAC 3"
+       },    
+              {
+          "group":"TAC #3",
+          "id":"u23UC182",
+          "title":"Eric Schultz",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.9075
+          ],
+          "about":"TAC 3"
+       },   
+       {
+          "group":"TAC #3",
+          "id":"u23UC181",
+          "title":"Parul Renie",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7239,
+             0.9365
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC180",
+          "title":"Reagan Eckard",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.9365
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC179",
+          "title":"Camille Charnews",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.9365
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UC177",
+          "title":"Jonathan Klepfer",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7359,
+             0.9545
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UC176",
+          "title":"Michael Biers",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7469,
+             0.9545
+          ],
+          "about":"TAC 3"
+       },
+       {
+          "group":"TAC #3",
+          "id":"u23UR6B",
+          "title":"Jessica Anaya",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7779,
+             0.5445
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UR6A",
+          "title":"Rosie Enyart",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7779,
+             0.5645
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UR7",
+          "title":"TECH CAFE",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.7979,
+             0.5565
+          ],
+          "about":"TAC 3"
+       },      
+       {
+          "group":"TAC #3",
+          "id":"u23UR9",
+          "title":"TBD",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.8159,
+             0.5465
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UR8",
+          "title":"Jeremy Hansen",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.8159,
+             0.5675
+          ],
+          "about":"TAC 3"
+       },    
+       {
+          "group":"TAC #3",
+          "id":"u23UP13",
+          "title":"Ted Brenn",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.8399,
+             0.5465
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UP14",
+          "title":"Dan Rippe",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.8569,
+             0.5465
+          ],
+          "about":"TAC 3"
+       }, 
+       {
+          "group":"TAC #3",
+          "id":"u23UP19",
+          "title":"NASA GeoXo/GOES-R",
+          "color":"#CE0E2D",
+          "zoom":"4.0000",
+          "layer":"L3H",
+          "coord":[
+             0.8739,
+             0.5465
+          ],
+          "about":"TAC 3"
+       },           
+       {
+          "group":"Department Store,Electronics & Tech,Home & Living",
+          "id":"a101",
+          "title":"Test Anchor",
+          "color":"#E22130",
+          "zoom":"2.9254",
+          "layer":"ground",
+          "desc":"Large department store offering clothing beauty home goods and more at competitive prices.",
+          "coord":[
+             0.2114,
+             0.563
+          ],
+          "about":"Shop & Save Big",
+          "style":"anchor"
+       }
+    ],
+    "styles":[
+       {
+          "class":"anchor",
+          "svg":true,
+          "hover-color":"#666",
+          "base-color":"#888",
+          "active-color":"#555"
+       },
+       {
+          "class":"store",
+          "stroke-width":0,
+          "hover-color":"#ffffff",
+          "active-color":"#ffffff",
+          "svg":true,
+          "active-stroke":"#fefefe",
+          "base-color":"#e8e8e8",
+          "hover-stroke":"#fefefe"
+       }
+    ],
+    "groups":[
+       {
+          "id":"TAC-1",
+          "name":"TAC #1"
+       },
+       {
+          "id":"TAC-3",
+          "name":"TAC #3"
+       },
+       {
+          "id":"TAC-4",
+          "name":"TAC #4"
+       },
+       {
+          "id":"FIC",
+          "name":"FIC"
+       },
+       {
+          "id":"Lobby",
+          "name":"Lobby"
+       },
+       {
+          "id":"Parkview-Health",
+          "name":"ParkView-Health"
+       }
+    ],
+    "breakpoints":[
+       {
+          "name":"all-screens",
+          "below":8000,
+          "portrait":false,
+          "type":"list",
+          "column":1,
+          "sidebar":280,
+          "container":600
+       },
+       {
+          "name":"tablet",
+          "below":860,
+          "portrait":true,
+          "column":3,
+          "sidebar":200,
+          "container":400,
+          "type":"grid"
+       },
+       {
+          "name":"mobile",
+          "below":480,
+          "portrait":true,
+          "container":460
+       }
+    ],
+    "filters":[
+       {
+          "id":"categories",
+          "type":"tags",
+          "name":"Categories",
+          "default":[
+             
+          ]
+       }
+    ]
+ }

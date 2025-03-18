@@ -1,0 +1,979 @@
+{
+    "settings":{
+       "title":"Shopping mall",
+       "hoverTooltip":true,
+       "deeplinking":true,
+       "sidebar":true,
+       "rightSidebar":false,
+       "toggleSidebar":true,
+       "thumbnails":true,
+       "sidebarClosed":false,
+       "ordered":true,
+       "orderBy":"title",
+       "portrait":480,
+       "maxZoom":4,
+       "mapWidth":1000,
+       "mapHeight":600,
+       "filters":true,
+       "filtersOpened":false,
+       "layer":"ground",
+       "location":null,
+       "css":".mapplic-thumbnail > img {\r\n\tfilter: grayscale(100%);\r\n\topacity: 0.5;\r\n}\r\n\r\n.mapplic-dir-item:hover .mapplic-thumbnail img,\r\n.mapplic-dir-item.mapplic-active .mapplic-thumbnail img {\r\n\tfilter: grayscale(0%);\r\n\topacity: 1;\r\n}\r\n\r\n.mapplic-thumbnail > img {\r\n    object-fit: contain;\r\n}\r\n\r\n.mapplic-popup-image > img {\r\n    object-fit: contain;\r\n    padding: 8px;\r\n    box-sizing: border-box;\r\n}",
+       "primaryColor":"#1476FF",
+       "fullscreen":"bottom-left",
+       "layerSwitcher":"top-right",
+       "resetButton":"bottom-right",
+       "zoomButtons":"bottom-right",
+       "zoom":true,
+       "geo":false,
+       "groupBy":true,
+       "filtersAlwaysVisible":false,
+       "csvEnabled":false,
+       "moreText":"Visit",
+       "mouseWheel":true
+    },
+    "layers":[
+       {
+          "id":"first",
+          "name":"First Floor",
+          "file":"assets/maps/mall-first.svg"
+       },
+       {
+          "id":"ground",
+          "name":"Ground floor",
+          "file":"assets/maps/mall-ground.svg"
+       },
+       {
+          "id":"underground",
+          "name":"Underground",
+          "file":"assets/maps/mall-underground.svg"
+       }
+    ],
+    "samples": [
+      {
+         "group":[
+            
+         ],
+         "style":"store",
+         "id":"def",
+         "link":"https://host.mapplic.com",
+         "color":"#333",
+         "hide":false,
+         "sample":"true",
+         "phone":"(248) 762-0356",
+         "type":"hidden"
+      }
+    ],
+    "locations":[
+       {
+          "group":"Entertainment",
+          "id":"a203",
+          "title":"AMC Theatres",
+          "color":"#CE0E2D",
+          "zoom":"3.2445",
+          "layer":"first",
+          "desc":"<p>Movie theater chain showing the latest blockbusters.</p><p>Movie theater chain showing the latest blockbusters.</p><p>Movie theater chain showing the latest blockbusters.</p>",
+          "coord":[
+             0.6848,
+             0.6568
+          ],
+          "about":"Movie Time",
+          "style":"anchor"
+       },
+       {
+          "group":"Department Store",
+          "id":"a102",
+          "title":"JCPenney",
+          "color":"#D91920",
+          "zoom":"3.2468",
+          "layer":"ground",
+          "desc":"Affordable department store with clothing beauty home goods and more for the whole family.",
+          "coord":[
+             0.6862,
+             0.6429
+          ],
+          "about":"Style for Less",
+          "style":"anchor"
+       },
+       {
+          "group":"Others",
+          "id":"a001",
+          "title":"Petco",
+          "color":"#001952",
+          "zoom":"3.6576",
+          "layer":"underground",
+          "desc":"Offers pet supplies grooming services and live pet adoption.",
+          "coord":[
+             0.5365,
+             0.2781
+          ],
+          "about":"Pet Care & Supplies",
+          "style":"anchor"
+       },
+       {
+          "group":"Department Store,Electronics & Tech,Home & Living",
+          "id":"a101",
+          "title":"Macy's",
+          "color":"#E22130",
+          "zoom":"2.9254",
+          "layer":"ground",
+          "desc":"Large department store offering clothing beauty home goods and more at competitive prices.",
+          "coord":[
+             0.2114,
+             0.563
+          ],
+          "about":"Shop & Save Big",
+          "style":"anchor"
+       },
+       {
+          "group":"Department Store,Electronics & Tech,Health & Beauty,Home & Living",
+          "id":"a103",
+          "title":"Nordstrom",
+          "color":"",
+          "zoom":"3.8585",
+          "layer":"ground",
+          "desc":"",
+          "coord":[
+             0.8093,
+             0.2319
+          ],
+          "about":"",
+          "style":"anchor"
+       },
+       {
+          "group":"Electronics & Tech",
+          "id":"a201",
+          "title":"Best Buy",
+          "zoom":"3.2253",
+          "layer":"first",
+          "desc":"<p>Offers a wide range of electronics appliances and technology products.</p>",
+          "coord":[
+             0.216,
+             0.6018
+          ],
+          "about":"Tech for Everyone",
+          "style":"anchor"
+       },
+       {
+          "group":[
+             "Fashion",
+             "Food & Beverage"
+          ],
+          "id":"a202",
+          "title":"Applebee's",
+          "color":"#3F702B",
+          "zoom":"4.5573",
+          "layer":"first",
+          "desc":"<p>Casual dining restaurant serving American classics and drinks.</p>",
+          "coord":[
+             0.7833,
+             0.2678
+          ],
+          "about":"Dine & Relax",
+          "style":"anchor"
+       },
+       {
+          "group":"Home & Living",
+          "id":"k101",
+          "title":"Hallmark",
+          "color":"#61398E",
+          "zoom":"11.3636",
+          "layer":"ground",
+          "desc":"Offers cards gifts and keepsakes for every occasion.",
+          "coord":[
+             0.4707,
+             0.4451
+          ],
+          "about":"Greeting & Gifts"
+       },
+       {
+          "group":"Accessories",
+          "id":"k103",
+          "title":"Sunglass Hut",
+          "color":"",
+          "zoom":"10.6195",
+          "layer":"ground",
+          "desc":"Sunglasses and eyewear store featuring designer brands.",
+          "coord":[
+             0.5109,
+             0.4314
+          ],
+          "about":"Shades for All"
+       },
+       {
+          "group":"Electronics & Tech",
+          "id":"k105",
+          "title":"Cricket Wireless",
+          "color":"#5FA72F",
+          "zoom":"10.989",
+          "layer":"ground",
+          "desc":"Mobile phone provider offering affordable and flexible plans.",
+          "coord":[
+             0.612,
+             0.3573
+          ],
+          "about":"Connect More"
+       },
+       {
+          "group":"Electronics & Tech,Entertainment",
+          "id":"k106",
+          "title":"Brookstone",
+          "color":"",
+          "zoom":"10.6641",
+          "layer":"ground",
+          "desc":"Gadget and gift store with unique and innovative products.",
+          "coord":[
+             0.6508,
+             0.5488
+          ],
+          "about":"Gadget Haven"
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"k202",
+          "title":"Chick-fil-A",
+          "color":"#E51636",
+          "zoom":"9.6696",
+          "layer":"first",
+          "desc":"Quick-service restaurant known for its chicken sandwiches.",
+          "coord":[
+             0.6331,
+             0.425
+          ],
+          "about":"Eat Mor Chikin"
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"k203",
+          "title":"Auntie Anne's",
+          "color":"#0061AF",
+          "zoom":"10.4621",
+          "layer":"first",
+          "desc":"Soft pretzel franchise offering fresh baked pretzels and dipping sauces.",
+          "coord":[
+             0.6331,
+             0.4994
+          ],
+          "about":"Freshly Baked"
+       },
+       {
+          "group":"Health & Beauty",
+          "id":"s009",
+          "title":"Rite Aid",
+          "color":"#173D73",
+          "zoom":"6.3171",
+          "layer":"underground",
+          "desc":"Pharmacy chain offering prescription drugs health and beauty products.",
+          "coord":[
+             0.7492,
+             0.4102
+          ],
+          "about":"Feel Better"
+       },
+       {
+          "group":"Fashion",
+          "id":"s012",
+          "title":"Old Navy",
+          "color":"#003764",
+          "zoom":"5.4108",
+          "layer":"underground",
+          "desc":"Casual clothing activewear and accessories for the whole family at affordable prices.",
+          "coord":[
+             0.4163,
+             0.5488
+          ],
+          "about":"Affordable Fashion"
+       },
+       {
+          "group":"Fashion",
+          "id":"s101",
+          "title":"Charlotte Russe",
+          "color":"#EA1D76",
+          "zoom":"8.2531",
+          "layer":"ground",
+          "desc":"Women's fashion store with a focus on trendy affordable styles.",
+          "coord":[
+             0.3257,
+             0.4323
+          ],
+          "about":"Trendy Fashion"
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s103",
+          "title":"Forever 21",
+          "color":"",
+          "zoom":"5.3333",
+          "layer":"ground",
+          "desc":"<p>Trendy fashion retailer for women men and kids.</p>",
+          "coord":[
+             0.395,
+             0.3873
+          ],
+          "about":"Fashion Forever"
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s104",
+          "title":"Victoria's Secret",
+          "color":"#F4668F",
+          "zoom":"7.5188",
+          "layer":"ground",
+          "desc":"Lingerie and beauty retailer known for its fashion shows and lingerie collections.",
+          "coord":[
+             0.4522,
+             0.372
+          ],
+          "about":"The Sexiest"
+       },
+       {
+          "group":"Accessories,Fashion,Footwear,Home & Living,Kids",
+          "id":"s105",
+          "title":"Zara",
+          "color":"",
+          "zoom":"5.1546",
+          "layer":"ground",
+          "desc":"Offers the latest fashion trends and styles in clothing, footwear, and accessories for men, women, and kids.",
+          "coord":[
+             0.5034,
+             0.2999
+          ],
+          "about":"Trendy fashion at your fingertips"
+       },
+       {
+          "group":"Fashion",
+          "id":"s107",
+          "title":"Massimo Dutii",
+          "color":"",
+          "zoom":"5.8252",
+          "layer":"ground",
+          "desc":"Iconic fashion and lifestyle brand offering clothing accessories and home goods.",
+          "coord":[
+             0.6446,
+             0.2888
+          ],
+          "about":""
+       },
+       {
+          "group":"Electronics & Tech",
+          "id":"s108",
+          "title":"Verizon",
+          "color":"#DC4F44",
+          "zoom":"9.6931",
+          "layer":"ground",
+          "desc":"Leading wireless and broadband telecommunications company.",
+          "coord":[
+             0.6045,
+             0.2984
+          ],
+          "about":"Stay Connected"
+       },
+       {
+          "group":"Electronics & Tech",
+          "id":"s109",
+          "title":"T-Mobile",
+          "color":"#E20975",
+          "zoom":"10.582",
+          "layer":"ground",
+          "desc":"Mobile phone provider offering affordable and flexible plans.",
+          "coord":[
+             0.6147,
+             0.3221
+          ],
+          "about":"Connect More"
+       },
+       {
+          "group":"Footwear,Sportswear",
+          "id":"s110",
+          "title":"Foot Locker",
+          "color":"#E52935",
+          "zoom":"7.7022",
+          "layer":"ground",
+          "desc":"Sports retailer offering shoes apparel and gear for a variety of sports.",
+          "coord":[
+             0.7071,
+             0.3002
+          ],
+          "about":"Step Up Your Game"
+       },
+       {
+          "group":[
+             "Fashion",
+             "Footwear",
+             "Sport"
+          ],
+          "id":"s112",
+          "title":"Adidas",
+          "color":"",
+          "zoom":"8.7848",
+          "layer":"ground",
+          "desc":"<p>Iconic sportswear brand offering shoes apparel and accessories for athletes and fans.</p>",
+          "coord":[
+             0.7605,
+             0.397
+          ],
+          "about":"Game On"
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s114",
+          "title":"PacSun",
+          "color":"",
+          "zoom":"8.7336",
+          "layer":"ground",
+          "desc":"Casual clothing and accessory store with a focus on beach and surf styles.",
+          "coord":[
+             0.759,
+             0.4651
+          ],
+          "about":"California Cool"
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s115",
+          "title":"Urban Outfitters",
+          "color":"",
+          "zoom":"7.4534",
+          "layer":"ground",
+          "desc":"Trendy clothing and accessory store for men",
+          "coord":[
+             0.7768,
+             0.4941
+          ],
+          "about":"Trendy Apparel"
+       },
+       {
+          "group":"Health & Beauty",
+          "id":"s116",
+          "title":"Walgreens",
+          "color":"#F04359",
+          "zoom":"7.8125",
+          "layer":"ground",
+          "desc":"A trusted source for all your health wellness and personal care needs.",
+          "coord":[
+             0.7373,
+             0.5312
+          ],
+          "about":"Your Neighborhood Drugstore."
+       },
+       {
+          "group":[
+             "Fashion",
+             "Accessories",
+             "Footwear"
+          ],
+          "id":"s117",
+          "title":"H&M",
+          "color":"#E50010",
+          "zoom":"5.698",
+          "layer":"ground",
+          "desc":"Offers stylish and affordable clothing for men women and children.",
+          "coord":[
+             0.6662,
+             0.4281
+          ],
+          "about":"Fashion for Everyone."
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s119",
+          "title":"GAP",
+          "color":"",
+          "zoom":"9.5389",
+          "layer":"ground",
+          "desc":"Provides timeless clothing and accessories for all occasions.",
+          "coord":[
+             0.6499,
+             0.3949
+          ],
+          "about":"Classic American Style."
+       },
+       {
+          "group":"Accessories",
+          "id":"s120",
+          "title":"Claire's",
+          "color":"#544192",
+          "zoom":"9.7245",
+          "layer":"ground",
+          "desc":"A popular destination for fashionable jewelry hair accessories and beauty products.",
+          "coord":[
+             0.6258,
+             0.4088
+          ],
+          "about":"Your Accessory Destination."
+       },
+       {
+          "group":"Electronics & Tech",
+          "id":"s121",
+          "title":"Bose",
+          "color":"",
+          "zoom":"11.4286",
+          "layer":"ground",
+          "desc":"A leader in audio technology offering headphones speakers and home entertainment systems.",
+          "coord":[
+             0.6267,
+             0.4333
+          ],
+          "about":"Better Sound for All."
+       },
+       {
+          "group":"Accessories",
+          "id":"s122",
+          "title":"Fast-Fix Jewelry",
+          "color":"",
+          "zoom":"11.5607",
+          "layer":"ground",
+          "desc":"Offers jewelry repair watch repair and custom jewelry design services.",
+          "coord":[
+             0.6363,
+             0.4466
+          ],
+          "about":"Your Trusted Jeweler."
+       },
+       {
+          "group":"Health & Beauty",
+          "id":"s124",
+          "title":"Sephora",
+          "color":"",
+          "zoom":"8.2192",
+          "layer":"ground",
+          "desc":"A premier beauty destination with a wide selection of makeup skincare and beauty tools.",
+          "coord":[
+             0.6018,
+             0.5889
+          ],
+          "about":"Beauty Uncomplicated."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s125",
+          "color":"#006241",
+          "zoom":"5.53",
+          "layer":"ground",
+          "desc":"<p>Offers several blends of coffee handcrafted beverages merchandise and food items.</p>",
+          "coord":[
+             0.5641,
+             0.5052
+          ],
+          "about":"More than just great coffee.",
+          "title":"Starbucks"
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s126",
+          "title":"Express",
+          "color":"",
+          "zoom":"6.2696",
+          "layer":"ground",
+          "desc":"<p>Offers trendy and fashionable clothing for both men and women.</p>",
+          "coord":[
+             0.4864,
+             0.5335
+          ],
+          "about":"Fashion for Every Occasion."
+       },
+       {
+          "group":"Accessories,Fashion",
+          "id":"s127",
+          "title":"Lululemon",
+          "color":"#D00A2C",
+          "zoom":"5.4103",
+          "layer":"ground",
+          "desc":"<p>Athletic apparel brand known for high-quality, stylish workout clothes and accessories.</p>",
+          "coord":[
+             0.4178,
+             0.5425
+          ],
+          "about":"Elevate Yourself.",
+          "hours":"Opened; Closed"
+       },
+       {
+          "group":"Electronics & Tech",
+          "id":"s201",
+          "title":"Apple",
+          "color":"#454a4e",
+          "zoom":"6.0778",
+          "layer":"first",
+          "desc":"<p>A leading technology company offering a wide range of innovative products</p>",
+          "coord":[
+             0.2466,
+             0.5104
+          ],
+          "about":"Think Different."
+       },
+       {
+          "group":"Health & Beauty",
+          "id":"s204",
+          "title":"CVS Pharmacy",
+          "color":"#CC0000",
+          "zoom":"5.3319",
+          "layer":"first",
+          "desc":"<p>A trusted source for all your health wellness and personal care needs.</p>",
+          "coord":[
+             0.3929,
+             0.3887
+          ],
+          "about":"Your Neighborhood Pharmacy.",
+          "action":"tooltip"
+       },
+       {
+          "group":"Entertainment,Kids",
+          "id":"s205",
+          "title":"The Disney Store",
+          "color":"#002F65",
+          "zoom":"7.5113",
+          "layer":"first",
+          "desc":"<p>A magical destination for all things Disney including toys clothing and collectibles.</p>",
+          "coord":[
+             0.4535,
+             0.3676
+          ],
+          "about":"Where Dreams Come to Life."
+       },
+       {
+          "group":"Home & Living",
+          "id":"s206",
+          "title":"Crate&Barrel",
+          "color":"",
+          "zoom":"6.2683",
+          "layer":"first",
+          "desc":"<p>Offers a wide range of home decor furniture and kitchen items for every style and budget.</p>",
+          "coord":[
+             0.508,
+             0.3259
+          ],
+          "about":"Inspired Living."
+       },
+       {
+          "group":[
+             "Footwear",
+             "Sport"
+          ],
+          "id":"s208",
+          "title":"Finish Line",
+          "color":"",
+          "zoom":"6.0121",
+          "layer":"first",
+          "desc":"A popular destination for athletic shoes clothing and accessories from top brands.",
+          "coord":[
+             0.5293,
+             0.268
+          ],
+          "about":"Find Your Finish."
+       },
+       {
+          "group":"Others",
+          "id":"s209",
+          "title":"Williams Sonoma",
+          "color":"",
+          "zoom":"9.6852",
+          "layer":"first",
+          "desc":"<p>Offers high-quality cookware cutlery home decor and furniture.</p>",
+          "coord":[
+             0.6059,
+             0.2989
+          ],
+          "about":"Home for the Holidays."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s210",
+          "title":"Harry & David",
+          "color":"",
+          "zoom":"10.5671",
+          "layer":"first",
+          "desc":"<p>A gourmet food and gift retailer offering premium gift baskets fruit and sweets.</p>",
+          "coord":[
+             0.6158,
+             0.3228
+          ],
+          "about":"Share the Joy."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s211",
+          "title":"Subway",
+          "color":"#009743",
+          "zoom":"7.3873",
+          "layer":"first",
+          "desc":"<p>A fast-food chain offering made-to-order subs salads and sides.</p>",
+          "coord":[
+             0.6528,
+             0.3093
+          ],
+          "about":"Eat Fresh."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s212",
+          "title":"Cinnabon",
+          "color":"#051D49",
+          "zoom":"11.6257",
+          "layer":"first",
+          "desc":"A sweet treat destination offering fresh-baked cinnamon rolls coffee and more.",
+          "coord":[
+             0.7712,
+             0.3503
+          ],
+          "about":"Warm and Fresh."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s213",
+          "title":"Dairy Queen",
+          "color":"#EE3E42",
+          "zoom":"9.2067",
+          "layer":"first",
+          "desc":"<p>Not Fast Food. A beloved fast-food chain offering classic treats like soft serve sundaes and Blizzards.</p>",
+          "coord":[
+             0.7526,
+             0.3615
+          ],
+          "about":"Fan Food"
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s214",
+          "title":"Godiva Chocolatier",
+          "color":"#581B00",
+          "zoom":"8.7822",
+          "layer":"first",
+          "desc":"Offers premium chocolate gifts and confections for every occasion.",
+          "coord":[
+             0.7636,
+             0.3991
+          ],
+          "about":"Indulge in Luxury.",
+          "hours":"Mo-Fr 8:30-22:00; Sa 10:00-23:00; Su Closed"
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s215",
+          "title":"Pizza Hut",
+          "color":"#EE1C23",
+          "zoom":"9.1061",
+          "layer":"first",
+          "desc":"<p>A popular pizza chain offering classic pies wings and more.</p>",
+          "coord":[
+             0.767,
+             0.4286
+          ],
+          "about":"No One Out-Pizzas the Hut."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s216",
+          "title":"Taco Bell",
+          "color":"#682A8D",
+          "zoom":"8.7285",
+          "layer":"first",
+          "desc":"A fast-food chain offering Mexican-inspired fare including tacos burritos and nachos.",
+          "coord":[
+             0.7597,
+             0.4644
+          ],
+          "about":"Live Más."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s217",
+          "title":"KFC",
+          "color":"#F40027",
+          "zoom":"7.4516",
+          "layer":"first",
+          "desc":"A fast-food chain known for its crispy fried chicken and sides.",
+          "coord":[
+             0.7744,
+             0.5014
+          ],
+          "about":"Finger Lickin' Good."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s218",
+          "title":"McDonald's",
+          "color":"#FFC300",
+          "zoom":"7.8084",
+          "layer":"first",
+          "desc":"A fast-food chain offering classic burgers fries and more.",
+          "coord":[
+             0.7386,
+             0.5318
+          ],
+          "about":"I'm Lovin' It."
+       },
+       {
+          "group":"Food & Beverage",
+          "id":"s219",
+          "title":"Häagen-Dazs",
+          "color":"#6C172F",
+          "zoom":"8.2237",
+          "layer":"first",
+          "desc":"A premium ice cream brand offering a wide range of classic and innovative flavors.",
+          "coord":[
+             0.6028,
+             0.5889
+          ],
+          "about":"Simply Perfect."
+       },
+       {
+          "group":"Kids",
+          "id":"s220",
+          "title":"LEGO Store",
+          "color":"#E3000B",
+          "zoom":"5.5376",
+          "layer":"first",
+          "desc":"<p>A destination for LEGO enthusiasts offering a wide range of building sets and accessories.</p>",
+          "coord":[
+             0.5678,
+             0.5083
+          ],
+          "about":"Let Your Imagination Run Wild."
+       },
+       {
+          "group":"Kids",
+          "id":"s221",
+          "title":"Justice",
+          "color":"#EC008C",
+          "zoom":"6.0205",
+          "layer":"first",
+          "desc":"<p>A popular clothing store for tween girls offering trendy and stylish clothing and accessories.</p>",
+          "coord":[
+             0.4932,
+             0.5334
+          ],
+          "about":"Girls Rule."
+       },
+       {
+          "group":"Electronics & Tech,Entertainment",
+          "id":"s222",
+          "title":"AT&T",
+          "color":"#009FDB",
+          "zoom":"5.3004",
+          "layer":"first",
+          "desc":"<p>A leading telecommunications company offering wireless internet and entertainment services.</p>",
+          "coord":[
+             0.398,
+             0.5407
+          ],
+          "about":"Connect More."
+       }
+    ],
+    "styles":[
+       {
+          "class":"anchor",
+          "svg":true,
+          "hover-color":"#666",
+          "base-color":"#888",
+          "active-color":"#555"
+       },
+       {
+          "class":"store",
+          "stroke-width":1,
+          "hover-color":"#fafafa",
+          "active-color":"#ffffff",
+          "svg":true,
+          "active-stroke":"#6082cc",
+          "base-color":"#e8e8e8",
+          "hover-stroke":"#a0b5e2"
+       }
+    ],
+    "groups":[
+       {
+          "id":"fashion",
+          "name":"Fashion"
+       },
+       {
+          "id":"department-store",
+          "name":"Department Store"
+       },
+       {
+          "id":"food",
+          "name":"Food & Drinks"
+       },
+       {
+          "id":"accessories",
+          "name":"Accessories"
+       },
+       {
+          "id":"tech",
+          "name":"Electronics & Tech"
+       },
+       {
+          "id":"footwear",
+          "name":"Footwear"
+       },
+       {
+          "id":"entertainment",
+          "name":"Entertainment"
+       },
+       {
+          "id":"home-living",
+          "name":"Home & Living"
+       },
+       {
+          "id":"health",
+          "name":"Health & Beauty"
+       },
+       {
+          "id":"kids",
+          "name":"Kids"
+       },
+       {
+          "name":"Sport"
+       },
+       {
+          "id":"others",
+          "name":"Others"
+       }
+    ],
+    "breakpoints":[
+       {
+          "name":"all-screens",
+          "below":8000,
+          "portrait":false,
+          "type":"list",
+          "column":1,
+          "sidebar":280,
+          "container":600
+       },
+       {
+          "name":"tablet",
+          "below":860,
+          "portrait":true,
+          "column":3,
+          "sidebar":200,
+          "container":400,
+          "type":"grid"
+       },
+       {
+          "name":"mobile",
+          "below":480,
+          "portrait":true,
+          "container":460
+       }
+    ],
+    "filters":[
+       {
+          "id":"categories",
+          "type":"tags",
+          "name":"Categories",
+          "default":[
+             
+          ]
+       },
+       {
+          "id":"now-opened",
+          "name":"Now opened",
+          "type":"checkbox",
+          "default":false,
+          "disable":false
+       },
+       {
+          "id":"sale",
+          "name":"On SALE",
+          "type":"checkbox",
+          "default":false
+       }
+    ]
+ }
