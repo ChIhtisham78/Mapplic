@@ -1,7 +1,7 @@
 import { useRef } from 'react'
 import { motion } from 'framer-motion'
 import { Plus, X } from 'react-feather'
-import useMapplicStore from '../../../mapplic/src/MapplicStore'
+import useMapplicStore from '../MapplicStore'
 
 export const TooltipNewLocation = ({location, layer}) => {
 	const data = useMapplicStore(state => state.data);

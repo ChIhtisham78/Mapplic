@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { motion, useMotionValue } from 'framer-motion'
-import useMapplicStore from '../../../mapplic/src/MapplicStore'
+import useMapplicStore from '../MapplicStore'
 
 export const LocationDrag = ({location, layer, dragConstraints, setTempCoord}) => {
 	const [initCoord, setInitCoord] = useState(location?.coord);
